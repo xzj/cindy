@@ -1,3 +1,5 @@
+---
+---
 ## Welcome to GitHub Pages
 
 You <span style='color:red'>can</span> use the [editor on GitHub](https://github.com/xzj/cindy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

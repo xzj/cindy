@@ -3,8 +3,9 @@
 
 @import "{{ site.theme }}";
 
+/* text */
 .font-bold {
-    font-weight: bolder;
+    font-weight: bold;
 }
 
 .bg-color-pink {
@@ -19,4 +20,22 @@
 }
 .color-blue {
     color: #3A7CBE;
+}
+.color-green {
+    color: #0b9605;
+}
+.color-red {
+    color: #b10909;
+}
+
+/* nav */
+nav ul{
+    /* font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
+    padding: 0px;
+    list-style: none;
+    /* font-weight: bold; */
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
 }
