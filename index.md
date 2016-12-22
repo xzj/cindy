@@ -1,6 +1,6 @@
 ---
-english: /subjects/english
-math: /subjects/math
+english: ./subjects/english
+math: ./subjects/math
 ---
 # 献给我最爱的女儿 —— <span class='color-pink'>Cindy(Qinghan Xu)</span>
 
