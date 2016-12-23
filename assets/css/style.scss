@@ -86,6 +86,9 @@ $orangeColor: orange;
 .green {
     @extend .color-green;
 }
+.red {
+    @extend .color-red;
+}
 
 
 .pink-b {
@@ -96,8 +99,20 @@ $orangeColor: orange;
     @extend .color-blue;
     @extend .font-bold;
 }
+.green-b {
+    @extend .color-green;
+    @extend .font-bold;
+}
 .red-b {
     @extend .color-red;
+    @extend .font-bold;
+}
+.yellow-b {
+    @extend .color-yellow;
+    @extend .font-bold;
+}
+.orange-b {
+    @extend .color-orange;
     @extend .font-bold;
 }
 
@@ -114,22 +129,19 @@ $orangeColor: orange;
     @extend .bg-color-blue;
 }
 .n {
-    @extend .color-green;
-    @extend .font-bold;
+    @extend .green-b;
 }
 .n-title {
     @extend .bg-color-green;
 }
 .adj {
-    @extend .color-orange;
-    @extend .font-bold;
+    @extend .orange-b;
 }
 .adj-title {
     @extend .bg-color-orange;
 }
 .adv {
-    @extend .color-yellow;
-    @extend .font-bold;
+    @extend .yellow-b;
 }
 
 .unit {
