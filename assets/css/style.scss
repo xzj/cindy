@@ -3,55 +3,145 @@
 
 @import "{{ site.theme }}";
 
-/* text */
+$pinkColor: #ca83a0;
+$blueColor: #3A7CBE;
+$greenColor: #0b9605;
+$redColor: #b10909;
+$yellowColor: #9a9a10;
+$orangeColor: orange;
+
+@mixin bgColor($color) {
+    background-color: $color;
+}
+@mixin color($color) {
+    color: $color;
+}
+
+//text
 .font-bold {
     font-weight: bold;
 }
 
 .bg-color-pink {
-    background-color: #ca83a0;
+    @include bgColor($pinkColor);
+    //background-color: #ca83a0;
 }
 .bg-color-blue {
-    background-color: #3A7CBE;
+    @include bgColor($blueColor);
+    //background-color: #3A7CBE;
 }
 .bg-color-green {
-    background-color: #0b9605;
+    @include bgColor($greenColor);
+    //background-color: #0b9605;
 }
 .bg-color-red {
-    background-color: #b10909;
+    @include bgColor($redColor);
+    //background-color: #b10909;
 }
 .bg-color-yellow {
-    background-color: #9a9a10;
+    @include bgColor($yellowColor);
+    //background-color: #9a9a10;
 }
 .bg-color-orange {
-    background-color: orange;
+    @include bgColor($orangeColor);
+    //background-color: orange;
+}
+.bg-pink {
+    @extend .bg-color-pink;
+}
+.bg-blue {
+    @extend .bg-color-blue;
 }
 
 .color-pink {
-    color: #ca83a0;
+    @include color($pinkColor);
+    //color: #ca83a0;
 }
 .color-blue {
-    color: #3A7CBE;
+    @include color($blueColor);
+    //color: #3A7CBE;
 }
 .color-green {
-    color: #0b9605;
+    @include color($greenColor);
+    //color: #0b9605;
 }
 .color-red {
-    color: #b10909;
+    @include color($redColor);
+    //color: #b10909;
 }
 .color-yellow {
-    color: #9a9a10;
+    @include color($yellowColor);
+    //color: #9a9a10;
 }
 .color-orange {
-    color: orange;
+    @include color($orangeColor);
+    //color: orange;
+}
+.pink {
+    @extend .color-pink;
+}
+.blue {
+    @extend .color-blue;
+}
+.green {
+    @extend .color-green;
 }
 
-/* nav */
+
+.pink-b {
+    @extend .color-pink;
+    @extend .font-bold;
+}
+.blue-b {
+    @extend .color-blue;
+    @extend .font-bold;
+}
+.red-b {
+    @extend .color-red;
+    @extend .font-bold;
+}
+
+.prep {
+    @extend .pink-b;
+}
+.prep-title {
+    @extend .bg-color-pink;
+}
+.v {
+    @extend .blue-b;
+}
+.v-title {
+    @extend .bg-color-blue;
+}
+.n {
+    @extend .color-green;
+    @extend .font-bold;
+}
+.n-title {
+    @extend .bg-color-green;
+}
+.adj {
+    @extend .color-orange;
+    @extend .font-bold;
+}
+.adj-title {
+    @extend .bg-color-orange;
+}
+.adv {
+    @extend .color-yellow;
+    @extend .font-bold;
+}
+
+.unit {
+    @extend .n;
+}
+
+// nav
 nav ul{
-    /* font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
+    // font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
-    /* font-weight: bold; */
+    // font-weight: bold;
 }
 nav ul li{
     display: inline;
