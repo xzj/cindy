@@ -1,4 +1,5 @@
 {% include nav.html %}
+{% include math-color.md %}
 ## 计算
 - 质数表
     * <span class="bg-pink">**10**</span> 以内的<span class='blue'>*质数*</span>：<span class="bg-pink">**2**</span>, <span class="bg-blue">**3**</span>, <span class="pink">5</span>, <span class="blue-b">7</span>
@@ -40,6 +41,16 @@
     * <span class='bg-pink'>**梯形**</span>
         - <span class='bg-blue'>**面积**</span>： <span class='pink-b'>S</span> = (<span class='bg-blue'>**上底**</span> * <span class='bg-pink'>**下底**</span>) * <span class='blue-b'>高</span> / <span class='red-b'>2</span>
         - <span class='pink-b'>为什么</span>？答：因为 <span class='red-b'>一模一样</span> 的 <span class='blue-b'>两个</span> <span class='pink-b'>梯形</span>，可以拼成 <span class='blue-b'>一个</span> <span class='pink-b'>平行四边形</span>。
+    * <span class='bg-pink'>**圆形**</span>
+        - <span class='bg-blue'>**周长**</span>： <span class='pink-b'>L</span> = <span class='red-b'>2</span> * <span class='bg-blue'>**圆周率**</span> * <span class='bg-pink'>**半径**</span> = $${\color{red-c}2} \times {\color{pink-c}\boldsymbol{\pi}} \times {\mathbf{\color{blue-c}r}}$$
+        - <span class='bg-blue'>**面积**</span>：<span class='pink-b'>S</span> = <span class='bg-blue'>**圆周率**</span> * <span class='bg-pink'>**半径**</span> * <span class='bg-pink'>**半径**</span> = $${\color{pink-c}\boldsymbol{\pi}} \times \mathbf{\color{blue-c}{r^2}}$$ = $${\color{red-c}\mathbf{\frac{1}{2}}} \times {\color{pink-c}L} \times \mathbf{\color{blue-c}r}$$
+    * <span class='bg-pink'>**扇形**</span>
+        - 设 $$\mathbf{\color{green-c}n}$$ 为扇形的 <span class='pink-b'>圆心角</span><span class='green-b'>角度数</span>
+        - 设扇形所在 <span class='pink-b'>圆形的周长</span> 为：$${\color{yellow-c}{L_圆}}$$，<span class='pink-b'>面积</span> 为：$${\color{yellow-c}{S_圆}}$$
+        - <span class='bg-blue'>**弧长**</span>：$${\color{pink-c}{L_弧}} = \frac{\mathbf{\color{green-c}{n}}}{\mathbf{\color{red-c}{360}}} \times {\color{yellow-c}{L_圆}} = \frac{\mathbf{\color{green-c}{n}}}{\mathbf{\color{red-c}{180}}} \times {\color{pink-c}\boldsymbol{\pi}} \times {\mathbf{\color{blue-c}r}}$$
+        - <span class='bg-blue'>**周长**</span>：<span class='pink-b'>L</span> = <span class='red-b'>2</span> * <span class='bg-blue'>**半径**</span> + <span class='bg-pink'>**弧长**</span> = $${\color{red-c}2} \times {\color{blue-c}r} + {\color{pink-c}L_弧}$$
+        - <span class='bg-blue'>**面积**</span>：<span class='pink-b'>S</span> = $$\frac{\mathbf{\color{green-c}{n}}}{\mathbf{\color{red-c}{360}}} \times {\color{yellow-c}{S_圆}}$$ = $$\frac{\mathbf{\color{green-c}{n}}}{\mathbf{\color{red-c}{360}}} \times {\color{pink-c}\boldsymbol{\pi}} \times \mathbf{\color{blue-c}{r^2}}$$ = $$\frac{\mathbf{\color{green-c}{n}}}{\mathbf{\color{red-c}{360}}} \times {\color{red-c}\mathbf{\frac{1}{2}}} \times {\color{yellow-c}{L_圆}} \times \mathbf{\color{blue-c}r}$$
+
 - 体积
 
 ## 方程
