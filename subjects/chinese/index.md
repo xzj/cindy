@@ -2,6 +2,8 @@
 {% include math-color.md %}
 ## 字
 * <span class='pink-b'>肖</span>
+    - <span class='yellow-b'>肖</span>$$\color{green-c}(xi\bar{a}o)$$[查字典](http://www.zdic.net/z/21/js/8096.htm) -- 姓<span class='yellow-b'>肖</span>
+    - <span class='yellow-b'>肖</span>$$\color{green-c}(xi\grave{a}o)$$ -- <span class='yellow-b'>肖</span>像，惟妙惟<span class='yellow-b'>肖</span>
     - <span class='yellow-b'>悄</span>$$\color{green-c}(qi\bar{a}o)$$[查字典](http://www.zdic.net/z/19/js/6084.htm)：<span class='green-b'>寂静无声</span> -- <span class='yellow-b'>悄悄</span>，<span class='yellow-b'>悄</span>然无声
     - <span class='yellow-b'>悄</span>$$\color{green-c}(qi\breve{a}o)$$：<span class='green-b'>忧愁</span> -- <span class='yellow-b'>悄</span>然落泪
     - <span class='yellow-b'>俏</span>$$\color{green-c}(qi\grave{a}o)$$[查字典](http://www.zdic.net/z/15/js/4FCF.htm) -- 俊<span class='yellow-b'>俏</span>
