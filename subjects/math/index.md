@@ -21,7 +21,7 @@
         - <span class='bg-pink'>**16**</span> = <span class='blue-b'>2</span> * <span class='blue-b'>2</span> * <span class='blue-b'>2</span> * <span class='blue-b'>2</span> = <span class='pink-b'>2</span> * <span class='pink-b'>2</span> * <span class='blue-b'>4</span> = <span class='pink-b'>2</span> * <span class='blue-b'>8</span> = <span class='pink-b'>4</span> * <span class='pink-b'>4</span>
 - 小数分数对应表
     * <span class='blue'>1</span> / <span class='pink-b'>2</span> = <span class='red-b'>0.5</span>
-    * <span class='pink'>1</span> / <span class='blue-b'>3</span> = <span class='red-b'>0.3333.....</span>, <span class='pink'>2</span> / <span class='blue-b'>3</span> = <span class='red-b'>0.6666......</span>, <span class='pink'>3</span> / <span class='blue-b'>3</span> = <span class='red-b'>0.9999......</span> = <span class='red-b'>1</span>
+    * <span class='pink-b'>1</span> / <span class='blue-b'>3</span> = <span class='red-b'>0.3333...</span> = $$\mathbf{\color{red-c}{0.\dot{3}}}$$, <span class='pink-b'>2</span> / <span class='blue-b'>3</span> = <span class='red-b'>0.6666...</span> = $$\mathbf{\color{red-c}{0.\dot{6}}}$$, <span class='pink-b'>3</span> / <span class='blue-b'>3</span> = <span class='red-b'>0.9999...</span> = $$\mathbf{\color{red-c}{0.\dot{9}}}$$ = <span class='red-b'>1</span>
     * <span class='blue-b'>1</span> / <span class='pink-b'>4</span> = <span class='red-b'>0.25</span>, <span class='blue-b'>2</span> / <span class='pink-b'>4</span> = <span class='blue-b'>1</span> / <span class='pink-b'>2</span> = <span class='red-b'>0.5</span>, <span class='blue-b'>3</span> / <span class='pink-b'>4</span> = <span class='red-b'>0.75</span>
 
 ## 公式
