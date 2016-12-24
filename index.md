@@ -1,6 +1,7 @@
 ---
 english: ./subjects/english
 math: ./subjects/math
+chinese: ./subjects/chinese
 ---
 # 献给我最爱的女儿 —— <span class='pink'>Cindy(Qinghan Xu)</span>
 
@@ -15,3 +16,4 @@ Hi, Cindy! 没想到吧。这是老爸精心给你准备的礼物——一个属
 ### <span class='green'>科目</span>
 - [英语]({{page.english}})
 - [数学]({{page.math}})
+- [语文]({{page.chinese}})
