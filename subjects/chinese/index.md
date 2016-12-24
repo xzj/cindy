@@ -1,6 +1,12 @@
 {% include nav.html %}
 {% include math-color.md %}
 ## 字
+* <span class='pink-b'>尧</span>
+    - <span class='yellow-b'>尧</span>$$\color{green-c}(y\acute{a}o)$$[查字典](http://www.zdic.net/z/18/js/5C27.htm) -- <span class='yellow-b'>尧</span>舜
+    - <span class='yellow-b'>挠</span>$$\color{green-c}(n\acute{a}o)$$[查字典](http://www.zdic.net/z/1a/js/6320.htm) -- 阻<span class='yellow-b'>挠</span>
+    - <span class='yellow-b'>饶</span>$$\color{green-c}(r\acute{a}o)$$[查字典](http://www.zdic.net/z/28/js/9976.htm) -- <span class='yellow-b'>饶</span>恕
+    - <span class='yellow-b'>绕</span>$$\color{green-c}(r\grave{a}o)$$[查字典](http://www.zdic.net/z/21/js/7ED5.htm) -- 缠<span class='yellow-b'>绕</span>
+    - <span class='yellow-b'>烧</span>$$\color{green-c}(sh\bar{a}o)$$[查字典](http://www.zdic.net/z/1d/js/70E7.htm) -- <span class='yellow-b'>烧</span>灼$$\color{green-c}(zhu\acute{o})$$
 * <span class='pink-b'>肖</span>
     - <span class='yellow-b'>肖</span>$$\color{green-c}(xi\bar{a}o)$$[查字典](http://www.zdic.net/z/21/js/8096.htm) -- 姓<span class='yellow-b'>肖</span>
     - <span class='yellow-b'>肖</span>$$\color{green-c}(xi\grave{a}o)$$ -- <span class='yellow-b'>肖</span>像，惟妙惟<span class='yellow-b'>肖</span>
