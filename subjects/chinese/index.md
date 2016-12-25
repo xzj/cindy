@@ -75,12 +75,12 @@
 
 ## 形近字
 * <span class='pink-b'>句</span>
-    - 句 [查字典]()
+    - 句$$\color{green-c}(j\grave{u})$$$$\color{red-c}(g\bar{o}u)$$ [查字典](http://www.zdic.net/z/16/js/53E5.htm)
     - 拘$$\color{green-c}(j\bar{u})$$ [查字典](http://www.zdic.net/z/1a/js/62D8.htm) -- <span class='yellow-b'>拘</span>束，<span class='yellow-b'>拘</span>捕
     - 驹$$\color{green-c}(j\bar{u})$$ [查字典](http://www.zdic.net/z/28/js/9A79.htm) -- 马<span class='yellow-b'>驹</span>
-    - 狗 [查字典]()
-    - 苟 [查字典]()
-    - 枸 [查字典]()
+    - 狗 [查字典](http://www.zdic.net/z/1e/js/72D7.htm)
+    - 苟$$\color{green-c}(g\breve{o}u)$$ [查字典](http://www.zdic.net/z/22/js/82DF.htm) -- <span class='yellow-b'>苟</span>且，不敢<span class='yellow-b'>苟</span>同
+    - 枸$$\color{green-c}(g\breve{o}u)$$ [查字典](http://www.zdic.net/z/1b/js/67B8.htm) - 枸杞$$\color{green-c}(qǐ)$$
 * <span class='pink-b'>辨</span>，<span class='pink-b'>辫</span>，<span class='pink-b'>辩</span>
     - 辨$$\color{green-c}(bi\grave{a}n)$$ [查字典](http://www.zdic.net/z/25/js/8FA8.htm) -- 分<span class='yellow-b'>辨</span>，<span class='yellow-b'>辨</span>别
     - 辫$$\color{green-c}(bi\grave{a}n)$$ [查字典](http://www.zdic.net/z/25/js/8FAB.htm) -- <span class='yellow-b'>辫</span>子
