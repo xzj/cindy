@@ -1,6 +1,56 @@
 {% include nav.html %}
 {% include math-color.md %}
-## 字
+## 课本生字
+- 六上
+    * <span class='pink-b'>unit 1</span>
+        - 邀$$\color{green-c}(y\bar{a}o)$$[查字典](http://www.zdic.net/z/25/js/9080.htm) -- <span class='yellow-b'>邀</span>请
+        - 俯$$\color{green-c}(f\breve{u})$$[查字典](http://www.zdic.net/z/15/js/4FEF.htm)
+        - 瀑$$\color{green-c}(p\grave{u})$$[查字典](http://www.zdic.net/z/1d/js/7011.htm)
+        - 峭$$\color{green-c}(qi\grave{a}o)$$ -- <span class='yellow-b'>峭</span>壁
+        - 躯$$\color{green-c}(q\bar{u})$$[查字典](http://www.zdic.net/z/25/js/8EAF.htm)
+        - 津$${\color{green-c}(j}{\color{red-c}īn}{\color{green-c})}$$[查字典](http://www.zdic.net/z/1c/js/6D25.htm) -- 天<span class='yellow-b'>津</span>
+        - 蕴$$\color{green-c}(y\grave{u}n)$$[查字典](http://www.zdic.net/z/23/js/8574.htm) -- <span class='yellow-b'>蕴</span>含
+        - 侠$$\color{green-c}(xi\acute{a})$$[查字典](http://www.zdic.net/z/15/js/4FA0.htm)
+        - <span class='red-b'>汩</span>$$\color{green-c}(g\breve{u})$$[查字典](http://www.zdic.net/z/1c/js/6C69.htm) -- <span class='yellow-b'>汩汩</span>
+        - 嗅$$\color{green-c}(xi\grave{u})$$[查字典](http://www.zdic.net/z/16/js/55C5.htm) -- <span class='yellow-b'>嗅</span>觉
+        - 犬$$\color{green-c}(qu\breve{a}n)$$[查字典](http://www.zdic.net/z/1e/js/72AC.htm)
+    * <span class='pink-b'>unit 2</span>
+        - 啼$$\color{green-c}(tí)$$[查字典](http://www.zdic.net/z/16/js/557C.htm) -- <span class='yellow-b'>啼</span>啭
+        - <span class='red-b'>啭</span>$$\color{green-c}(zhu\grave{a}n)$$[查字典](http://www.zdic.net/z/16/js/556D.htm) -- 啼<span class='yellow-b'>啭</span>
+    * <span class='pink-b'>unit 3</span>
+        - <span class='red-b'>谧</span>$$\color{green-c}(mì)$$[查字典](http://www.zdic.net/z/24/js/8C27.htm) -- 静<span class='yellow-b'>谧</span>
+        - 巷$$\color{green-c}(xi\grave{a}ng)$$$$\color{red-c}(h\grave{a}ng)$$[查字典](http://www.zdic.net/z/19/js/5DF7.htm)
+    * <span class='pink-b'>unit 4</span>
+
+## 形近字
+* <span class='pink-b'>帝</span>
+    - 帝
+    - 啼
+    - 蹄
+* <span class='pink-b'>日</span>，<span class='pink-b'>曰</span>，<span class='pink-b'>目</span>
+    - 日
+    - 曰
+    - 目
+    - 汩
+    - 泪
+* <span class='pink-b'>夹</span>
+    - 夹
+    - 侠
+    - 峡
+    - 狭
+* <span class='pink-b'>蕴</span>
+    - 蕴
+    - 温
+    - 媪
+* <span class='pink-b'>邀</span>
+    - 邀
+    - 激
+    - 缴
+    - 檄
+* <span class='pink-b'>暴</span>
+    - 暴
+    - 爆
+    - 瀑
 * <span class='pink-b'>尧</span>
     - <span class='yellow-b'>尧</span>$$\color{green-c}(y\acute{a}o)$$[查字典](http://www.zdic.net/z/18/js/5C27.htm) -- <span class='yellow-b'>尧</span>舜
     - <span class='yellow-b'>挠</span>$$\color{green-c}(n\acute{a}o)$$[查字典](http://www.zdic.net/z/1a/js/6320.htm) -- 阻<span class='yellow-b'>挠</span>

@@ -37,7 +37,7 @@
 
 ## 词法语法
 - <span class='green-b'>词法</span>
-    - 名词 <span class='blue-b'>单复数</span>
+    * 名词 <span class='blue-b'>单复数</span>
         1. <span class='pink-b'>可数名词</span>，当表示数量“<span class='blue-b'>一</span>”时，用 <span class='blue-b'>a</span> 还是 <span class='blue-b'>an</span>，由 <span class='red-b'>后面紧跟</span> 的单词的 <span class='red-b'>首个发音</span> 音素决定。<span class='pink-b'>辅音</span> 音素前用 “<span class='blue-b'>a</span>”，<span class='pink-b'>元音</span> 音素前用 “<span class='blue-b'>an</span>”。例：<span class='blue-b'>a</span> <span class='green-b'>u</span><span class='adj'>seful</span>(留意这个单词的首个发音是 [ju:]) <span class='n'>book</span>，<span class='blue-b'>an</span> <span class='green-b'>E</span><span class='adj'>nglish</span>(留意这个单词的首个发音是[i]) <span class='n'>book</span>
         2. <span class='pink-b'>不可数名词</span>，前面不能用 <span class='blue-b'>a</span> 或 <span class='blue-b'>an</span> 或 <span class='blue-b'>数字</span>，常用 <span class='pink-b'>some</span>, <span class='pink-b'>much</span>, <span class='blue-b'>a little</span>, <span class='blue-b'>a lot of</span>, <span class='pink-b'>plenty of</span> 表示多少；
         3. 可以用 <span class='pink-b'>单位词</span> 来表示数量，即用 <span class='blue-b'>数字</span> + <span class='pink-b'>单位词</span> + <span class='red'>of</span> + <span class='green-b'>名词</span> 的形式。注意：当 <span class='blue-b'>数字</span> <span class='red-b'>大于 1</span> 时，<span class='pink-b'>单位词</span> 要用 <span class='green-b'>复数</span> 形式。这种用法 <span class='pink-b'>不可数名词</span> 经常使用。例：<span class='blue-b'>a</span> <span class='pink-b'>pair</span> of <span class='green-b'>shoes</span>，<span class='blue-b'>two</span> <span class='pink-b'>cups</span> of <span class='green-b'>tea</span>，<span class='blue-b'>five</span> <span class='pink-b'>pieces</span> of <span class='green-b'>paper</span>(五张纸)
@@ -51,12 +51,12 @@
         11. 特别地，当 <span class='n'>people</span> 后面 <span class='blue-b'>+</span> <span class='yellow-b'>s</span> 时，即 <span class='n'>peoples</span> 表示 “<span class='yellow-b'>民族</span>”。例：There are 56 <span class='green-b'>peoples</span> in China. 中国有 56 个<span class='yellow-b'>民族</span>。
         12. <span class='pink-b'>不可数名词</span>，是不分单复数的。特别地：<span class='blue-b'>液体</span> 是 <span class='pink-b'>不可数</span> 的。例：<span class='orange-b'>candy</span>, <span class='orange-b'>sweet</span>, <span class='orange-b'>rice</span>, <span class='orange-b'>bread</span>, <span class='yellow-b'>homework</span>, <span class='yellow-b'>housework</span>, <span class='yellow-b'>work</span>, <span class='blue-b'>water</span>, <span class='blue-b'>juice</span>, <span class='blue-b'>soup</span>, <span class='blue-b'>milk</span>, <span class='blue-b'>tea</span>
         13. <span class='n'>fish</span> 当表示 <span class='yellow-b'>不同物种</span> 的鱼时，使用 <span class='blue-b'>复数</span> 形式 <span class='blue-b'>+</span> <span class='red-b'>es</span>
-    * 代词
-        1. 代词包括 <span class='pink-b'>第一人称</span>，<span class='pink-b'>第二人称</span> 和 <span class='pink-b'>第三人称</span>，<span class='pink-b'>每种</span> 人称都分为 <span class='blue-b'>单</span> <span class='yellow-b'>复</span> 数。
-        2. 代词在句子中的用法有 <span class='pink-b'>三</span> 种：<span class='blue-b'>主格</span>，<span class='blue-b'>宾格</span>，<span class='blue-b'>所有格</span>(又分为 <span class='yellow-b'>形容词</span>性 和 <span class='yellow-b'>名词</span>性)。同一人称的代词，在这 <span class='pink-b'>三</span> 种用法中，通常其单词的形式是不同的。
-        3. 代词用于 <span class='blue-b'>主格</span> 时，在句子中作 <span class='pink-b'>主语</span>，被指代的 <span class='green-b'>人/物</span> 是动作的 <span class='yellow-b'>发起者</span>。
-        4. 代词用于 <span class='blue-b'>宾格</span> 时，在句子中作 <span class='pink-b'>宾语</span>，被指代的 <span class='green-b'>人/物</span> 是动作的 <span class='yellow-b'>承受者</span>。形式往往是：<span class='pink-b'>及物动词</span> + <span class='blue-b'>宾格</span>，或 <span class='pink-b'>不及物动词</span> + <span class='yellow-b'>介词</span> + <span class='blue-b'>宾格</span>
-        5. 代词的 <span class='blue-b'>所有格</span>，用于表示物件的 <span class='pink-b'>所有权</span>，即表示“<span class='blue-b'>谁的</span>”。
+    * 人称代词
+        1. 人称代词包括 <span class='pink-b'>第一人称</span>，<span class='pink-b'>第二人称</span> 和 <span class='pink-b'>第三人称</span>，<span class='pink-b'>每种</span> 人称都分为 <span class='blue-b'>单</span> <span class='yellow-b'>复</span> 数。
+        2. 人称代词在句子中的用法有 <span class='pink-b'>三</span> 种：<span class='blue-b'>主格</span>，<span class='blue-b'>宾格</span>，<span class='blue-b'>所有格</span>(又分为 <span class='yellow-b'>形容词</span>性 和 <span class='yellow-b'>名词</span>性)。同一人称的代词，在这 <span class='pink-b'>三</span> 种用法中，通常其单词的形式是不同的。
+        3. 人称代词用于 <span class='blue-b'>主格</span> 时，在句子中作 <span class='pink-b'>主语</span>，被指代的 <span class='green-b'>人/物</span> 是动作的 <span class='yellow-b'>发起者</span>。
+        4. 人称代词用于 <span class='blue-b'>宾格</span> 时，在句子中作 <span class='pink-b'>宾语</span>，被指代的 <span class='green-b'>人/物</span> 是动作的 <span class='yellow-b'>承受者</span>。形式往往是：<span class='pink-b'>及物动词</span> + <span class='blue-b'>宾格</span>，或 <span class='pink-b'>不及物动词</span> + <span class='yellow-b'>介词</span> + <span class='blue-b'>宾格</span>
+        5. 人称代词的 <span class='blue-b'>所有格</span>，用于表示物件的 <span class='pink-b'>所有权</span>，即表示“<span class='blue-b'>谁的</span>”。
         6. <span class='pink-b'>形容词</span> 性的 <span class='blue-b'>所有格</span> 是形容词，修饰跟在后面的 <span class='green-b'>名词</span>，形式是：<span class='blue-b'>所有格</span> + <span class='green-b'>名词</span>，如：my book
         7. <span class='pink-b'>名词</span> 性的 <span class='blue-b'>所有格</span> 是名词，可以做 <span class='green-b'>宾语</span> 或 <span class='green-b'>主语</span>。如：The book is his.
         8. <span class='pink-b'>第一人称</span>。
@@ -74,6 +74,9 @@
             - it 表示 <span class='pink-b'>天气</span>，<span class='pink-b'>时间</span> 等。例：It's half past three.
             - it 表示 <span class='yellow-b'>不明性别</span>的婴儿 或 <span class='yellow-b'>不明身份、不确定</span>的人。例：Who is knocking? It's me.
             - 用来指代 <span class='pink-b'>前面提到过</span>的事物
+    * 动词
+        1. be 的各种人称、单复数、时态
+        2. 动名词 和 动词不定式
 
 ## 习俗文化
 
