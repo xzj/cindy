@@ -40,14 +40,22 @@
         - 亘$$\color{green-c}(g\grave{e}n)$$[查字典](http://www.zdic.net/z/15/js/4E98.htm) -- 横<span class='yellow-b'>亘</span>在眼前，绵<span class='yellow-b'>亘</span>蜿蜒
         - 逸$$\color{green-c}(yì)$$[查字典](http://www.zdic.net/z/25/js/9038.htm) -- 安<span class='yellow-b'>逸</span>，逃<span class='yellow-b'>逸</span>，<span class='yellow-b'>逸</span>事(也可作 “<span class='red-b'>轶</span>[查字典](http://www.zdic.net/z/25/js/9038.htm)事”，注意“轶”与 “<span class='blue-b'>秩</span>[查字典](http://www.zdic.net/z/20/js/79E9.htm)序”的区别)
         - 婷$${\color{green-c}(t}{\color{red-c}íng}{\color{green-c})}$$[查字典](http://www.zdic.net/z/18/js/5A77.htm) -- <span class='yellow-b'>婷婷</span>玉立
-        - 窈$$\color{green-c}(y\breve{a}o)$$窕$$\color{green-c}(ti\breve{a}o)$$淑$$\color{green-c}(sh\bar{u})$$女
+        - 窈$$\color{red-c}(y\breve{a}o)$$窕$$\color{red-c}(ti\breve{a}o)$$淑$$\color{red-c}(sh\bar{u})$$女
         - 撅$$\color{green-c}(ju\bar{e})$$[查字典](http://www.zdic.net/z/1a/js/6485.htm) -- <span class='yellow-b'>撅</span>屁股
         - 赌$$\color{green-c}(d\breve{u})$$[查字典](http://www.zdic.net/z/25/js/8D4C.htm) -- <span class='yellow-b'>赌</span>博
         - 蹚$$\color{green-c}(t\bar{a}ng)$$[查字典](http://www.zdic.net/z/25/js/8E5A.htm) -- <span class='yellow-b'>蹚</span>水
-        - 璞$$\color{green-c}(p\acute{u})$$[查字典](http://www.zdic.net/z/1e/js/749E.htm) -- 返<span class='yellow-b'>璞</span>归真
+        - 璞$$\color{red-c}(p\acute{u})$$[查字典](http://www.zdic.net/z/1e/js/749E.htm) -- 返<span class='yellow-b'>璞</span>归真
     * <span class='pink-b'>读读写写 1</span>
         - 清<span class='yellow-b'>爽</span>, <span class='yellow-b'>吟诵</span>, 唱和$$\color{green-c}(h\grave{e})$$, 瀑布, 陡峭, 挺<span class='yellow-b'>拔</span>
-        - 身躯, 精致，蕴含，奥秘，侠客，静谧
+        - 身躯, 精致，<span class='yellow-b'>蕴</span>含，<span class='yellow-b'>奥</span>秘，侠客，静<span class='yellow-b'>谧</span>
+        - 追$$\color{green-c}(zhuī)$$随，小巷，俏丽，烘烤，音韵，演奏
+        - 探索$$\color{green-c}(su\breve{o})$$，勤勉，漫游，亲吻，德高望重
+        - 津津乐道，别有深意，左冲右撞，意味深长
+        - 庞然大物，行色匆匆
+    * <span class='pink-b'>读读记记 1</span>
+        - 神奇，优雅，<span class='yellow-b'>辨</span>认，清新，欢悦，清脆
+        - <span class='yellow-b'>凝</span>$$\color{green-c}(níng)$$<span class='yellow-b'>聚</span>，恶作剧，奇妙无比
+        - 不拘$$\color{green-c}(j\bar{u})$$一格，年$$\color{green-c}(ni\acute{a}n)$$过花甲
     * <span class='pink-b'>unit 5</span>
 
 ## 多音字
@@ -59,18 +67,31 @@
     - $$\color{green-c}h\acute{u}$$ -- 和牌
 
 ## 形近字
+* <span class='pink-b'>辨</span>，<span class='pink-b'>辫</span>，<span class='pink-b'>辩</span>
+    - 辨$$\color{green-c}(bi\grave{a}n)$$ [查字典](http://www.zdic.net/z/25/js/8FA8.htm) -- 分<span class='yellow-b'>辨</span>，<span class='yellow-b'>辨</span>别
+    - 辫$$\color{green-c}(bi\grave{a}n)$$ [查字典](http://www.zdic.net/z/25/js/8FAB.htm) -- <span class='yellow-b'>辫</span>子
+    - 辩$$\color{green-c}(bi\grave{a}n)$$ [查字典](http://www.zdic.net/z/25/js/8FA9.htm) -- <span class='yellow-b'>辩</span>论
+* <span class='pink-b'>准</span>
+    - 准 [查字典](http://www.zdic.net/z/15/js/51C6.htm)
+    - <span class='yellow-b'>淮</span> [查字典](http://www.zdic.net/z/1d/js/6DEE.htm) -- <span class='yellow-b'>淮</span>河
+    - 难$$\color{green-c}(n\acute{a}n)$$$$\color{red-c}(n\grave{a}n)$$$$\color{green-c}(nu\acute{o})$$ [查字典](http://www.zdic.net/z/27/js/96BE.htm) -- 困<span class='yellow-b'>难</span>，苦<span class='yellow-b'>难</span>(注意两个词的<span class='orange-b'>读音</span>)
+    - 雅$$\color{green-c}(y\breve{a})$$ [查字典](http://www.zdic.net/z/27/js/96C5.htm)
 * <span class='pink-b'>堂</span>
-    - 堂
-    - 膛 -- 胸膛，枪膛
-    - 蹚
-    - 螳 -- 螳螂
+    - 堂 [查字典](http://www.zdic.net/z/17/js/5802.htm)
+    - <span class='yellow-b'>膛</span> [查字典](http://www.zdic.net/z/22/js/819B.htm) -- 胸<span class='yellow-b'>膛</span>，枪<span class='yellow-b'>膛</span>
+    - <span class='yellow-b'>蹚</span>
+    - <span class='yellow-b'>螳</span>$$\color{green-c}(t\acute{a}ng)$$ [查字典](http://www.zdic.net/z/23/js/87B3.htm) -- <span class='yellow-b'>螳</span>螂$$\color{green-c}(l\acute{a}ng)$$
 * <span class='pink-b'>者</span>
-    - 者
-    - 都
-    - 堵
+    - 者 [查字典](http://www.zdic.net/z/21/js/8005.htm)
+    - 都$$\color{green-c}(d\bar{o}u)$$$$\color{green-c}(d\bar{u})$$ [查字典](http://www.zdic.net/z/26/js/90FD.htm)
+    - 堵$$\color{green-c}(d\breve{u})$$ [查字典](http://www.zdic.net/z/17/js/5835.htm) -- <span class='yellow-b'>堵</span>车
     - 赌
-    - 猪
-    - 诸
+    - 猪 [查字典](http://www.zdic.net/z/1e/js/732A.htm)
+    - 诸$$\color{green-c}(zh\bar{u})$$ [查字典](http://www.zdic.net/z/24/js/8BF8.htm) -- <span class='yellow-b'>诸</span>侯
+* <span class='pink-b'>侯</span>，<span class='pink-b'>候</span>
+    - 侯
+    - 猴
+    - 候
 * <span class='pink-b'>幼</span>
     - 幼
     - 呦$$\color{green-c}(y\bar{o}u)$$ -- 屠呦呦
