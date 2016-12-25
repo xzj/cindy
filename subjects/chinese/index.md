@@ -74,10 +74,17 @@
     - $$\color{green-c}h\acute{u}$$ -- 和牌
 
 ## 形近字
+* <span class='pink-b'>句</span>
+    - 句 [查字典]()
+    - 拘$$\color{green-c}(j\bar{u})$$ [查字典](http://www.zdic.net/z/1a/js/62D8.htm) -- <span class='yellow-b'>拘</span>束，<span class='yellow-b'>拘</span>捕
+    - 驹$$\color{green-c}(j\bar{u})$$ [查字典](http://www.zdic.net/z/28/js/9A79.htm) -- 马<span class='yellow-b'>驹</span>
+    - 狗 [查字典]()
+    - 苟 [查字典]()
+    - 枸 [查字典]()
 * <span class='pink-b'>辨</span>，<span class='pink-b'>辫</span>，<span class='pink-b'>辩</span>
     - 辨$$\color{green-c}(bi\grave{a}n)$$ [查字典](http://www.zdic.net/z/25/js/8FA8.htm) -- 分<span class='yellow-b'>辨</span>，<span class='yellow-b'>辨</span>别
     - 辫$$\color{green-c}(bi\grave{a}n)$$ [查字典](http://www.zdic.net/z/25/js/8FAB.htm) -- <span class='yellow-b'>辫</span>子
-    - 辩$$\color{green-c}(bi\grave{a}n)$$ [查字典](http://www.zdic.net/z/25/js/8FA9.htm) -- <span class='yellow-b'>辩</span>论
+    - 辩$$\color{green-c}(bi\grave{a}n)$$ [查字典](http://www.zdic.net/z/25/js/8FA9.htm) -- <span class='yellow-b'>辩</span>论，分<span class='yellow-b'>辩</span>(注意与 <span class='red-b'>分辨</span> 的不同)
 * <span class='pink-b'>准</span>
     - 准 [查字典](http://www.zdic.net/z/15/js/51C6.htm)
     - <span class='yellow-b'>淮</span> [查字典](http://www.zdic.net/z/1d/js/6DEE.htm) -- <span class='yellow-b'>淮</span>河
