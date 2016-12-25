@@ -48,14 +48,14 @@
     * <span class='pink-b'>读读写写 1</span>
         - 清<span class='yellow-b'>爽</span>, <span class='yellow-b'>吟诵</span>, 唱和$$\color{green-c}(h\grave{e})$$, 瀑布, 陡峭, 挺<span class='yellow-b'>拔</span>
         - 身躯, 精致，<span class='yellow-b'>蕴</span>含，<span class='yellow-b'>奥</span>秘，侠客，静<span class='yellow-b'>谧</span>
-        - 追$$\color{green-c}(zhuī)$$随，小巷，俏丽，烘烤，音韵，演奏
+        - 追$${\color{green-c}(}{\color{red-c}zh}{\color{green-c}uī})$$随，小巷，俏丽，烘烤，音韵，演奏
         - 探索$$\color{green-c}(su\breve{o})$$，勤勉，漫游，亲吻，德高望重
         - 津津乐道，别有深意，左冲右撞，意味深长
         - 庞然大物，行色匆匆
     * <span class='pink-b'>读读记记 1</span>
         - 神奇，优雅，<span class='yellow-b'>辨</span>认，清新，欢悦，清脆
-        - <span class='yellow-b'>凝</span>$$\color{green-c}(níng)$$<span class='yellow-b'>聚</span>，恶作剧，奇妙无比
-        - 不拘$$\color{green-c}(j\bar{u})$$一格，年$$\color{green-c}(ni\acute{a}n)$$过花甲
+        - <span class='yellow-b'>凝</span>$${\color{green-c}(}{\color{red-c}n}{\color{green-c}íng})$$<span class='yellow-b'>聚</span>，恶作剧，奇妙无比
+        - 不拘$$\color{green-c}(j\bar{u})$$一格，年$${\color{green-c}(}{\color{red-c}n}{\color{green-c}i\acute{a}n})$$过花甲
     * <span class='pink-b'>日积月累</span>
         - <span class='yellow-b'>落红</span>不是无情物，化作<span class='yellow-b'>春</span>泥更护<span class='yellow-b'>花</span>。（<span class='red-b'>龚</span>$$\color{green-c}g\bar{o}ng$$<span class='red-b'>自珍</span>）
         - 造物无言却有<span class='yellow-b'>情</span>，每于寒尽觉<span class='yellow-b'>春</span><span class='blue-b'>生</span>。（<span class='red-b'>张维屏</span>）
@@ -94,13 +94,13 @@
 * <span class='pink-b'>堂</span>
     - 堂 [查字典](http://www.zdic.net/z/17/js/5802.htm)
     - <span class='yellow-b'>膛</span> [查字典](http://www.zdic.net/z/22/js/819B.htm) -- 胸<span class='yellow-b'>膛</span>，枪<span class='yellow-b'>膛</span>
-    - <span class='yellow-b'>蹚</span>
+    - <span class='yellow-b'>蹚</span>(六上，<span class='pink-b'>unit 4</span>)
     - <span class='yellow-b'>螳</span>$$\color{green-c}(t\acute{a}ng)$$ [查字典](http://www.zdic.net/z/23/js/87B3.htm) -- <span class='yellow-b'>螳</span>螂$$\color{green-c}(l\acute{a}ng)$$
 * <span class='pink-b'>者</span>
     - 者 [查字典](http://www.zdic.net/z/21/js/8005.htm)
     - 都$$\color{green-c}(d\bar{o}u)$$$$\color{green-c}(d\bar{u})$$ [查字典](http://www.zdic.net/z/26/js/90FD.htm)
     - 堵$$\color{green-c}(d\breve{u})$$ [查字典](http://www.zdic.net/z/17/js/5835.htm) -- <span class='yellow-b'>堵</span>车
-    - 赌
+    - 赌(六上，<span class='pink-b'>unit 4</span>)
     - 猪 [查字典](http://www.zdic.net/z/1e/js/732A.htm)
     - 诸$$\color{green-c}(zh\bar{u})$$ [查字典](http://www.zdic.net/z/24/js/8BF8.htm) -- <span class='yellow-b'>诸</span>侯
 * <span class='pink-b'>侯</span>，<span class='pink-b'>候</span>
@@ -112,18 +112,18 @@
     - 呦$$\color{green-c}(y\bar{o}u)$$ -- 屠呦呦
     - 坳
     - 拗
-    - 窈
+    - 窈(六上，<span class='pink-b'>unit 4</span>)
 * <span class='pink-b'>兆</span>
     - 兆
     - 挑
     - 跳
     - 眺
-    - 窕
+    - 窕(六上，<span class='pink-b'>unit 4</span>)
     - 逃
     - 桃
 * <span class='pink-b'>叔</span>
     - 叔
-    - 淑
+    - 淑(六上，<span class='pink-b'>unit 4</span>)
     - 椒 -- 辣椒
 * <span class='pink-b'>失</span>
     - 失
@@ -131,12 +131,12 @@
     - 秩
     - 轶
 * <span class='pink-b'>亘</span>
-    - 亘
+    - 亘(六上，<span class='pink-b'>unit 4</span>)
     - 恒
     - 桓
     - 垣
 * <span class='pink-b'>畏</span>
-    - 畏
+    - 畏(六上，<span class='pink-b'>unit 4</span>)
     - 喂
     - 偎
     - 猥
@@ -145,55 +145,55 @@
     - 辟(pì)[查字典](http://www.zdic.net/z/25/js/8F9F.htm) -- 开辟
     - 辟(bì) -- 复辟
     - 劈
-    - 僻
+    - 僻(六上，<span class='pink-b'>unit 3</span>)
 * <span class='pink-b'>襄</span>
     - 襄
     - 嚷
     - 壤
-    - 攘
+    - 攘(六上，<span class='pink-b'>unit 3</span>)
 * <span class='pink-b'>宣</span>
     - 宣
-    - 暄
+    - 暄(六上，<span class='pink-b'>unit 3</span>)
     - 喧
 * <span class='pink-b'>勿</span>，<span class='pink-b'>匆</span>
     - 勿
     - 匆
-    - 吻
+    - 吻(六上，<span class='pink-b'>unit 3</span>)
     - 忽
     - 葱
 * <span class='pink-b'>共</span>
     - 共
     - 哄
     - 洪
-    - 烘
+    - 烘(六上，<span class='pink-b'>unit 3</span>)
 * <span class='pink-b'>帝</span>
     - 帝
-    - 啼
+    - 啼(六上，<span class='pink-b'>unit 2</span>)
     - 蹄
 * <span class='pink-b'>日</span>，<span class='pink-b'>曰</span>，<span class='pink-b'>目</span>
     - 日
     - 曰
     - 目
-    - 汩
+    - 汩(六上，<span class='pink-b'>unit 1</span>)
     - 泪
 * <span class='pink-b'>夹</span>
     - 夹
-    - 侠
+    - 侠(六上，<span class='pink-b'>unit 1</span>)
     - 峡
     - 狭
 * <span class='pink-b'>蕴</span>
-    - 蕴
+    - 蕴(六上，<span class='pink-b'>unit 1</span>)
     - 温
     - 媪
 * <span class='pink-b'>邀</span>
-    - 邀
+    - 邀(六上，<span class='pink-b'>unit 1</span>)
     - 激
     - 缴
     - 檄
 * <span class='pink-b'>暴</span>
     - 暴
     - 爆
-    - 瀑
+    - 瀑(六上，<span class='pink-b'>unit 1</span>)
 * <span class='pink-b'>尧</span>
     - <span class='yellow-b'>尧</span>$$\color{green-c}(y\acute{a}o)$$[查字典](http://www.zdic.net/z/18/js/5C27.htm) -- <span class='yellow-b'>尧</span>舜
     - <span class='yellow-b'>挠</span>$$\color{green-c}(n\acute{a}o)$$[查字典](http://www.zdic.net/z/1a/js/6320.htm) -- 阻<span class='yellow-b'>挠</span>
@@ -205,8 +205,8 @@
     - <span class='yellow-b'>肖</span>$$\color{green-c}(xi\grave{a}o)$$ -- <span class='yellow-b'>肖</span>像，惟妙惟<span class='yellow-b'>肖</span>
     - <span class='yellow-b'>悄</span>$$\color{green-c}(qi\bar{a}o)$$[查字典](http://www.zdic.net/z/19/js/6084.htm)：<span class='green-b'>寂静无声</span> -- <span class='yellow-b'>悄悄</span>，<span class='yellow-b'>悄</span>然无声
     - <span class='yellow-b'>悄</span>$$\color{green-c}(qi\breve{a}o)$$：<span class='green-b'>忧愁</span> -- <span class='yellow-b'>悄</span>然落泪
-    - <span class='yellow-b'>俏</span>$$\color{green-c}(qi\grave{a}o)$$[查字典](http://www.zdic.net/z/15/js/4FCF.htm) -- 俊<span class='yellow-b'>俏</span>
-    - <span class='yellow-b'>峭</span>$$\color{green-c}(qi\grave{a}o)$$[查字典](http://www.zdic.net/z/18/js/5CED.htm) -- 陡<span class='yellow-b'>峭</span>
+    - <span class='yellow-b'>俏</span>$$\color{green-c}(qi\grave{a}o)$$[查字典](http://www.zdic.net/z/15/js/4FCF.htm)(六上，<span class='pink-b'>unit 3</span>) -- 俊<span class='yellow-b'>俏</span>
+    - <span class='yellow-b'>峭</span>$$\color{green-c}(qi\grave{a}o)$$[查字典](http://www.zdic.net/z/18/js/5CED.htm)(六上，<span class='pink-b'>unit 1</span>) -- 陡<span class='yellow-b'>峭</span>
     - <span class='yellow-b'>消</span>$$\color{green-c}(xi\bar{a}o)$$[查字典](http://www.zdic.net/z/1d/js/6D88.htm) -- <span class='yellow-b'>消</span>息
     - <span class='yellow-b'>削</span>$$\color{green-c}(x\bar{u}e)$$[查字典](http://www.zdic.net/z/16/js/524A.htm) -- 瘦<span class='yellow-b'>削</span>，<span class='yellow-b'>削</span>除，<span class='yellow-b'>削</span>减，<span class='yellow-b'>削</span>弱，剥<span class='yellow-b'>削</span>，<span class='yellow-b'>削</span>发
     - <span class='yellow-b'>削</span>$$\color{green-c}(xi\bar{a}o)$$ -- <span class='yellow-b'>削</span>皮
