@@ -30,6 +30,8 @@
 ## 格言
 
 ## 文学知识
+
+## 技能
 - <span class='pink-b'>中心思想</span>：文章想要表达的<span class='orange-b'>核心</span><span class='blue-b'>观点</span>、<span class='blue-b'>感情</span>等。
     * <span class='green-b'>写人</span> -- 先分析写<span class='yellow-b'>谁</span>，干了什么<span class='yellow-b'>事</span>，然后看看从中表现了这个人的什么<span class='yellow-b'>品质</span>或<span class='yellow-b'>特点</span>。这种品质或特点是要<span class='orange-b'>脱离具体事件</span>的。比如: 表现了“詹天佑的爱国之心”，而不是表现了“詹天佑坚持不懈完成工程”。
     * <span class='green-b'>记事</span> -- 先找到<span class='bg-pink'>**时间**</span>、<span class='bg-pink'>**地点**</span>，再找到<span class='bg-pink'>**人物**</span>，再找出事情的<span class='blue-b'>起因</span>、<span class='blue-b'>经过</span>、<span class='blue-b'>结果</span>，<span class='yellow-b'>最后总结</span>通过这件事，作者想表达怎样的<span class='yellow-b'>观点</span>或<span class='yellow-b'>感情</span>。
@@ -37,7 +39,7 @@
     * <span class='green-b'>写物</span>(即<span class='green-b'>状物</span>) -- 先找到写了什么<span class='bg-pink'>**事物**</span>，再分析写了事物<span class='blue-b'>哪几个方面</span>的<span class='bg-pink'>**特点**</span>。<span class='yellow-b'>最后总结</span>通过写这个事物，表达了作者怎样的<span class='yellow-b'>观点</span>或<span class='yellow-b'>感情</span>。
 - <span class='pink-b'>理解句子</span>
     * <span class='blue-b'>首先</span>结合<span class='bg-pink'>**时代背景**</span>、<span class='bg-pink'>**上下文**</span>，然后<span class='blue-b'>抓住</span>句子的<span class='bg-pink'>**关键词**</span>、<span class='bg-pink'>**修辞手法**</span>，<span class='blue-b'>理解</span>词语或句子的<span class='yellow-b'>本意</span>、<span class='yellow-b'>引申义</span>、<span class='yellow-b'>言外之意</span>。
-- 人物描写方法
+- <span class='pink-b'>人物描写方法</span>
     * $${\color{pink-c}人物描写方法}
         \begin{cases}
         \mathbf{\color{blue-c}正面描写}
