@@ -20,9 +20,116 @@
     * <span class='pink-b'>unit 3</span>
         - <span class='red-b'>谧</span>$$\color{green-c}(mì)$$[查字典](http://www.zdic.net/z/24/js/8C27.htm) -- 静<span class='yellow-b'>谧</span>
         - 巷$$\color{green-c}(xi\grave{a}ng)$$$$\color{red-c}(h\grave{a}ng)$$[查字典](http://www.zdic.net/z/19/js/5DF7.htm)
+        - 俏$$\color{green-c}(qi\grave{a}o)$$
+        - 逗$$\color{green-c}(d\grave{o}u)$$[查字典](http://www.zdic.net/z/25/js/9017.htm)
+        - 庞$$\color{green-c}(p\acute{a}ng)$$[查字典](http://www.zdic.net/z/19/js/5E9E.htm)
+        - 烘$$\color{green-c}(h\bar{o}ng)$$[查字典](http://www.zdic.net/z/1d/js/70D8.htm)
+        - 烤$$\color{green-c}(k\breve{a}o)$$[查字典](http://www.zdic.net/z/1d/js/70E4.htm)
+        - 韵$$\color{green-c}(y\grave{u}n)$$[查字典](http://www.zdic.net/z/27/js/97F5.htm)
+        - 勤$${\color{green-c}(q}{\color{red-c}ín}{\color{green-c})}$$[查字典](http://www.zdic.net/z/16/js/52E4.htm)
+        - 勉$$\color{green-c}(mi\breve{a}n)$$[查字典](http://www.zdic.net/z/16/js/52C9.htm)
+        - 吻$$\color{green-c}(w\breve{e}n)$$[查字典](http://www.zdic.net/z/16/js/543B.htm)
+        - <span class='red-b'>暄</span>$$\color{green-c}(xu\bar{a}n)$$[查字典](http://www.zdic.net/z/1b/js/6684.htm) -- 注意与 <span class='red-b'>喧</span>$$\color{green-c}(xu\bar{a}n)$$[查字典](http://www.zdic.net/z/16/js/55A7.htm)的区别，寒<span class='yellow-b'>暄</span>
+        - 熙$$\color{green-c}(x\bar{i})$$[查字典](http://www.zdic.net/z/1e/js/7199.htm)熙攘$$\color{green-c}(r\breve{a}ng)$$[查字典](http://www.zdic.net/z/1a/js/6518.htm)攘
+        - 蜥$$\color{green-c}(xī)$$蜴$$\color{green-c}(yì)$$
+        - 戚$$\color{green-c}(qī)$$[查字典](http://www.zdic.net/z/1a/js/621A.htm) -- 亲<span class='yellow-b'>戚</span>
+        - 僻$$\color{green-c}(pì)$$[查字典](http://www.zdic.net/z/15/js/50FB.htm) -- 偏<span class='yellow-b'>僻</span>
+        - 鸠$$\color{green-c}(ji\bar{u})$$[查字典](http://www.zdic.net/z/29/js/9E20.htm) -- 斑<span class='yellow-b'>鸠</span>
     * <span class='pink-b'>unit 4</span>
+        - 畏$$\color{green-c}(w\grave{e}i)$$[查字典](http://www.zdic.net/z/1f/js/754F.htm) -- <span class='yellow-b'>畏</span>惧，敬<span class='yellow-b'>畏</span>
+        - 亘$$\color{green-c}(g\grave{e}n)$$[查字典](http://www.zdic.net/z/15/js/4E98.htm) -- 横<span class='yellow-b'>亘</span>在眼前，绵<span class='yellow-b'>亘</span>蜿蜒
+        - 逸$$\color{green-c}(yì)$$[查字典](http://www.zdic.net/z/25/js/9038.htm) -- 安<span class='yellow-b'>逸</span>，逃<span class='yellow-b'>逸</span>，<span class='yellow-b'>逸</span>事(也可作 “<span class='red-b'>轶</span>[查字典](http://www.zdic.net/z/25/js/9038.htm)事”，注意“轶”与 “<span class='blue-b'>秩</span>[查字典](http://www.zdic.net/z/20/js/79E9.htm)序”的区别)
+        - 婷$${\color{green-c}(t}{\color{red-c}íng}{\color{green-c})}$$[查字典](http://www.zdic.net/z/18/js/5A77.htm) -- <span class='yellow-b'>婷婷</span>玉立
+        - 窈$$\color{green-c}(y\breve{a}o)$$窕$$\color{green-c}(ti\breve{a}o)$$淑$$\color{green-c}(sh\bar{u})$$女
+        - 撅$$\color{green-c}(ju\bar{e})$$[查字典](http://www.zdic.net/z/1a/js/6485.htm) -- <span class='yellow-b'>撅</span>屁股
+        - 赌$$\color{green-c}(d\breve{u})$$[查字典](http://www.zdic.net/z/25/js/8D4C.htm) -- <span class='yellow-b'>赌</span>博
+        - 蹚$$\color{green-c}(t\bar{a}ng)$$[查字典](http://www.zdic.net/z/25/js/8E5A.htm) -- <span class='yellow-b'>蹚</span>水
+        - 璞$$\color{green-c}(p\acute{u})$$[查字典](http://www.zdic.net/z/1e/js/749E.htm) -- 返<span class='yellow-b'>璞</span>归真
+    * <span class='pink-b'>读读写写 1</span>
+        - 清<span class='yellow-b'>爽</span>, <span class='yellow-b'>吟诵</span>, 唱和$$\color{green-c}(h\grave{e})$$, 瀑布, 陡峭, 挺<span class='yellow-b'>拔</span>
+        - 身躯, 精致，蕴含，奥秘，侠客，静谧
+    * <span class='pink-b'>unit 5</span>
+
+## 多音字
+* <span class='pink-b'>和</span> [查字典](http://www.zdic.net/z/16/js/548C.htm)
+    - $$\color{green-c}h\acute{e}$$ -- 和平，讲和，和衣而卧
+    - $$\color{green-c}h\grave{e}$$ -- 唱和，曲高和寡
+    - $$\color{green-c}hu\acute{o}$$ -- 和面
+    - $$\color{green-c}hu\grave{o}$$ -- 和稀泥
+    - $$\color{green-c}h\acute{u}$$ -- 和牌
 
 ## 形近字
+* <span class='pink-b'>堂</span>
+    - 堂
+    - 膛 -- 胸膛，枪膛
+    - 蹚
+    - 螳 -- 螳螂
+* <span class='pink-b'>者</span>
+    - 者
+    - 都
+    - 堵
+    - 赌
+    - 猪
+    - 诸
+* <span class='pink-b'>幼</span>
+    - 幼
+    - 呦$$\color{green-c}(y\bar{o}u)$$ -- 屠呦呦
+    - 坳
+    - 拗
+    - 窈
+* <span class='pink-b'>兆</span>
+    - 兆
+    - 挑
+    - 跳
+    - 眺
+    - 窕
+    - 逃
+    - 桃
+* <span class='pink-b'>叔</span>
+    - 叔
+    - 淑
+    - 椒 -- 辣椒
+* <span class='pink-b'>失</span>
+    - 失
+    - 跌
+    - 秩
+    - 轶
+* <span class='pink-b'>亘</span>
+    - 亘
+    - 恒
+    - 桓
+    - 垣
+* <span class='pink-b'>畏</span>
+    - 畏
+    - 喂
+    - 偎
+    - 猥
+    - 煨
+* <span class='pink-b'>辟</span>
+    - 辟(pì)[查字典](http://www.zdic.net/z/25/js/8F9F.htm) -- 开辟
+    - 辟(bì) -- 复辟
+    - 劈
+    - 僻
+* <span class='pink-b'>襄</span>
+    - 襄
+    - 嚷
+    - 壤
+    - 攘
+* <span class='pink-b'>宣</span>
+    - 宣
+    - 暄
+    - 喧
+* <span class='pink-b'>勿</span>，<span class='pink-b'>匆</span>
+    - 勿
+    - 匆
+    - 吻
+    - 忽
+    - 葱
+* <span class='pink-b'>共</span>
+    - 共
+    - 哄
+    - 洪
+    - 烘
 * <span class='pink-b'>帝</span>
     - 帝
     - 啼
