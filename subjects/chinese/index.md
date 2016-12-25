@@ -56,6 +56,13 @@
         - 神奇，优雅，<span class='yellow-b'>辨</span>认，清新，欢悦，清脆
         - <span class='yellow-b'>凝</span>$$\color{green-c}(níng)$$<span class='yellow-b'>聚</span>，恶作剧，奇妙无比
         - 不拘$$\color{green-c}(j\bar{u})$$一格，年$$\color{green-c}(ni\acute{a}n)$$过花甲
+    * <span class='pink-b'>日积月累</span>
+        - <span class='yellow-b'>落红</span>不是无情物，化作<span class='yellow-b'>春</span>泥更护<span class='yellow-b'>花</span>。（<span class='red-b'>龚</span>$$\color{green-c}g\bar{o}ng$$<span class='red-b'>自珍</span>）
+        - 造物无言却有<span class='yellow-b'>情</span>，每于寒尽觉<span class='yellow-b'>春</span><span class='blue-b'>生</span>。（<span class='red-b'>张维屏</span>）
+        - 今夜偏知<span class='yellow-b'>春</span>气暖，虫声<span class='yellow-b'>新</span>透<span class='yellow-b'>绿</span>窗纱。（<span class='red-b'>刘方平</span>）
+        - 此夜曲中闻折柳，何人不起<span class='yellow-b'>故园</span>情。（<span class='red-b'>李白</span>）
+        - 卧看满天<span class='yellow-b'>云</span>不动，不知<span class='yellow-b'>云</span>与我俱东。（<span class='red-b'>陈与义</span>）
+        - 不是<span class='yellow-b'>花</span>中偏爱<span class='yellow-b'>菊</span>，此花开尽更<span class='yellow-b'>无花</span>。（<span class='red-b'>元稹</span>$$\color{green-c}zh\breve{e}n$$）
     * <span class='pink-b'>unit 5</span>
 
 ## 多音字
@@ -75,6 +82,7 @@
     - 准 [查字典](http://www.zdic.net/z/15/js/51C6.htm)
     - <span class='yellow-b'>淮</span> [查字典](http://www.zdic.net/z/1d/js/6DEE.htm) -- <span class='yellow-b'>淮</span>河
     - 难$$\color{green-c}(n\acute{a}n)$$$$\color{red-c}(n\grave{a}n)$$$$\color{green-c}(nu\acute{o})$$ [查字典](http://www.zdic.net/z/27/js/96BE.htm) -- 困<span class='yellow-b'>难</span>，苦<span class='yellow-b'>难</span>(注意两个词的<span class='orange-b'>读音</span>)
+    - 维$$\color{green-c}(w\acute{e}i)$$ [查字典](http://www.zdic.net/z/21/js/7EF4.htm) -- <span class='yellow-b'>维</span>持
     - 雅$$\color{green-c}(y\breve{a})$$ [查字典](http://www.zdic.net/z/27/js/96C5.htm)
 * <span class='pink-b'>堂</span>
     - 堂 [查字典](http://www.zdic.net/z/17/js/5802.htm)
