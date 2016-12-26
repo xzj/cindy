@@ -1,39 +1,74 @@
 {% include nav.html %}
+## <span class='bg-pink'>&nbsp;&nbsp;&nbsp;&nbsp;</span>介词，<span class='bg-blue'>&nbsp;&nbsp;&nbsp;&nbsp;</span>动词，<span class='bg-green'>&nbsp;&nbsp;&nbsp;&nbsp;</span>名词，<span class='bg-orange'>&nbsp;&nbsp;&nbsp;&nbsp;</span>形容词，<span class='bg-yellow'>&nbsp;&nbsp;&nbsp;&nbsp;</span>副词
+
 ## 单词
+- <span class='blue-b'>b</span> 开头
+    * <span class='v'>build</span>
+        - <span class='v'>build</span>[(查词)](http://dict.hjenglish.com/w/build)-建筑;建造;构筑
+        - <span class='n'>builder</span>[(查词)](http://dict.hjenglish.com/w/builder)-建筑工人;建设者
+        - <span class='n'>building</span>[(查词)](http://dict.hjenglish.com/w/building)-建筑物;房屋
 
 ## 词组
 - **六上**
-    * <span class='unit'>Unit 1</span>
+    * <span class='unit'>Module 1</span>
         - <span class='prep-title'>**介词(prep.)**</span>
             * <span class='prep'>after</span> <span class='n'>school</span>
+            * <span class='prep'>at</span> that <span class='n'>time</span>
+            * <span class='prep'>in</span> <span class='n'>America</span>
             * live <span class='prep'>in</span> the <span class='n'>country</span>
+            * <span class='prep'>in</span> our <span class='n'>class</span>
             * <span class='prep'>in</span> the <span class='n'>field</span>
-            * <span class='prep'>on</span> the <span class='n'>farm</span>, <span class='prep'>on</span> the <span class='n'>river</span>
+            * live <span class='prep'>on</span> the <span class='n'>farm</span>, <span class='prep'>on</span> the <span class='n'>river</span>
         - <span class='v-title'>**动词(v.)**</span>
             * <span class='v'>cut</span> <span class='n'>grass</span>
             * <span class='v'>feed</span> the <span class='n'>animals</span>
             * <span class='v'>feel</span> <span class='adj'>tired</span>
-            * <span class='v'>finish</span> my <span class='n'>homework</span>
+            * <span class='v'>finish</span> <span class='adj'>my</span> <span class='n'>homework</span>
             * <span class='v'>get</span> <span class='n'>home</span>
             * <span class='v'>grow</span> <span class='n'>flowers</span> and <span class='n'>vegetables</span>, <span class='v'>plant</span> <span class='n'>trees</span>
             * 注意上面 <span class='v'>grow</span> 和 <span class='v'>plant</span> 的区别，两个都可以翻译成“种”
             * <span class='v'>give</span> <span class='n'>something</span> <span class='prep'>to</span> <span class='n'>somebody</span>, <span class='v'>give</span> <span class='n'>somebody</span> <span class='n'>something</span>
-            * <span class='v'>help</span> <span class='n'>somebody</span> <span class='prep'>with</span> <span class='n'>something</span>
+                - <span class='v'>give</span> grass <span class='prep'>to</span> the cows and sheep
+            * <span class='v'>help</span> <span class='n'>somebody</span> <span class='prep'>with</span> <span class='n'>something</span>, <span class='v'>help</span> <span class='n'>somebody</span> <span class='v'>do</span> <span class='n'>something</span>
+                - <span class='v'>help</span> my parents <span class='prep'>with</span> housework
+                - <span class='v'>help</span> grandparents <span class='v'>do</span> farm work
+            * <span class='v'>keep</span> cows <span class='prep'>for</span> their milk
+            * <span class='v'>like</span> <span class='n'>living</span> <span class='prep'>in</span> <span class='adj'>our</span> <span class='n'>city</span>
             * <span class='v'>look</span> <span class='adv'>lovely</span>
             * <span class='v'>milk</span> the <span class='n'>cow</span>
-            * <span class='v'>ride</span> a <span class='n'>bike</span>
+            * <span class='v'>pick</span> some apples or oranges <span class='prep'>from</span> the tree
+            * <span class='v'>ride</span> a bike <span class='prep'>to</span> school
+            * <span class='v'>thanks</span> <span class='prep'>for</span> ...
+                - <span class='v'>thanks</span> <span class='prep'>for</span> your <span class='n'>help</span>
             * <span class='v'>use</span> <span class='n'>something</span> <span class='prep'>as[(查词)](http://dict.hjenglish.com/w/as)</span> <span class='n'>something</span>, 把...当作...
             * <span class='v'>wake</span> <span class='adv'>up[(查词)](http://dict.hjenglish.com/w/up)</span>
         - <span class='n-title'>**名词(n.)**</span>
             * <span class='adj'>clean</span> <span class='n'>air</span>
+            * <span class='adj'>tall</span> and <span class='adj'>new</span> <span class='n'>buildings</span>
+            * <span class='adj'>clean</span> and <span class='adj'>comfortable</span> <span class='n'>hotel</span>
+            * <span class='n'>farm</span> <span class='n'>work</span>
             * <span class='adj'>fresh</span> <span class='n'>food</span>
             * <span class='n'>fruit</span> <span class='n'>trees</span>
-            * <span class='adj'>healthy</span> <span class='n'>life</span>
+            * a <span class='adj'>big</span> and <span class='adj'>modern</span> <span class='n'>school</span>
+            * <span class='adj'>wide</span> but <span class='adj'>crowded</span> <span class='n'>streets</span>
+            * <span class='adj'>large</span> and <span class='adj'>clean</span> <span class='n'>supermarket</span>
+            * <span class='adj'>heavy</span> and <span class='adj'>slow</span> <span class='n'>traffic</span>
             * <span class='adv'>so</span> <span class='adj'>many</span> <span class='n'>things</span>
-            * <span class='adj'>much</span> <span class='n'>work</span> to <span class='v'>do</span>
+            * <span class='adj'>much</span> <span class='n'>work</span> <span class='prep'>to</span> <span class='v'>do</span>
+                - <span class='adj'>many</span> <span class='n'>books</span> <span class='prep'>to</span> <span class='v'>read</span>
         - <span class='adj-title'>**形容词(adj.)**</span>
-            * <span class='adj'>plenty of</span> <span class='n'>exercise</span>
-            * <span class='adj'>more</span> <span class='prep'>than</span>
+            * a <span class='adj'>country</span> <span class='n'>life</span>
+            * a <span class='adj'>healthy</span> <span class='n'>life</span>
+            * <span class='adj'>every</span> <span class='n'>day</span>
+            * <span class='adj'>plenty of</span>, <spa class='adj'>lots of</spa>
+                - <span class='adj'>plenty of</span> <span class='n'>exercise</span>
+            * <span class='adj'>more</span> <span class='prep'>than</span> ...
+        - 中文
+            * 放学后，在那时候，在美国，住在乡村，在我们班上，在田/地里，住在农场，在河面上
+            * 割草，给动物喂食，感到累，做完我的作业，到家，种花和蔬菜，栽树，把某物给某人，把草给牛和羊，帮助某人做某事，帮父母做家务，帮助祖父母做农活，养牛为了它们的奶，喜欢住在我们的城市里，看上去很可爱，给奶牛挤奶，从书上摘一些苹果和橘子，骑自行车到学校，为了...而感谢，感谢你的帮助，把...当作...，醒来
+            * 洁净的空气，高大的新楼，干净舒服的酒店，农活，新鲜的食物，果树，又大又现代化的学校，宽阔却拥挤的街道，又大又干净的超市，拥挤又缓慢的交通，这样多的事情/东西，很多活要干，很多书要读
+            * 农场生活，健康的生活，每天，大量的、充分的，许多，充分的锻炼，超过...、多过...
+    * <span class='unit'>Module 2</span>
 
 ## 词法语法
 - <span class='green-b'>词法</span>

@@ -52,6 +52,21 @@ $orangeColor: orange;
 .bg-blue {
     @extend .bg-color-blue;
 }
+.bg-green {
+    @extend .bg-color-green;
+}
+.bg-red {
+    @extend .bg-color-red;
+}
+.bg-green {
+    @extend .bg-color-green;
+}
+.bg-yellow {
+    @extend .bg-color-yellow;
+}
+.bg-orange {
+    @extend .bg-color-orange;
+}
 
 .color-pink {
     @include color($pinkColor);
