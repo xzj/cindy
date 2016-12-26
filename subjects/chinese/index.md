@@ -37,7 +37,7 @@
         - 鸠$$\color{green-c}(ji\bar{u})$$[查字典](http://www.zdic.net/z/29/js/9E20.htm) -- 斑<span class='yellow-b'>鸠</span>
     * <span class='pink-b'>unit 4</span>
         - 畏$$\color{green-c}(w\grave{e}i)$$[查字典](http://www.zdic.net/z/1f/js/754F.htm) -- <span class='yellow-b'>畏</span>惧，敬<span class='yellow-b'>畏</span>
-        - 亘$$\color{green-c}(g\grave{e}n)$$[查字典](http://www.zdic.net/z/15/js/4E98.htm) -- 横<span class='yellow-b'>亘</span>在眼前，绵<span class='yellow-b'>亘</span>蜿蜒
+        - 亘$${\color{green-c}(g}{\color{red-c}\grave{e}n}{\color{green-c})}$$[查字典](http://www.zdic.net/z/15/js/4E98.htm) -- 横<span class='yellow-b'>亘</span>在眼前，绵<span class='yellow-b'>亘</span>蜿蜒
         - 逸$$\color{green-c}(yì)$$[查字典](http://www.zdic.net/z/25/js/9038.htm) -- 安<span class='yellow-b'>逸</span>，逃<span class='yellow-b'>逸</span>，<span class='yellow-b'>逸</span>事(也可作 “<span class='red-b'>轶</span>[查字典](http://www.zdic.net/z/25/js/9038.htm)事”，注意“轶”与 “<span class='blue-b'>秩</span>[查字典](http://www.zdic.net/z/20/js/79E9.htm)序”的区别)
         - 婷$${\color{green-c}(t}{\color{red-c}íng}{\color{green-c})}$$[查字典](http://www.zdic.net/z/18/js/5A77.htm) -- <span class='yellow-b'>婷婷</span>玉立
         - 窈$$\color{red-c}(y\breve{a}o)$$窕$$\color{red-c}(ti\breve{a}o)$$淑$$\color{red-c}(sh\bar{u})$$女
@@ -87,7 +87,7 @@
     - 辩$$\color{green-c}(bi\grave{a}n)$$ [查字典](http://www.zdic.net/z/25/js/8FA9.htm) -- <span class='yellow-b'>辩</span>论，分<span class='yellow-b'>辩</span>(注意与 <span class='red-b'>分辨</span> 的不同)
 * <span class='pink-b'>准</span>
     - 准 [查字典](http://www.zdic.net/z/15/js/51C6.htm)
-    - <span class='yellow-b'>淮</span> [查字典](http://www.zdic.net/z/1d/js/6DEE.htm) -- <span class='yellow-b'>淮</span>河
+    - <span class='yellow-b'>淮</span>$$\color{green-c}(hu\acute{a}i)$$ [查字典](http://www.zdic.net/z/1d/js/6DEE.htm) -- <span class='yellow-b'>淮</span>河
     - 难$$\color{green-c}(n\acute{a}n)$$$$\color{red-c}(n\grave{a}n)$$$$\color{green-c}(nu\acute{o})$$ [查字典](http://www.zdic.net/z/27/js/96BE.htm) -- 困<span class='yellow-b'>难</span>，苦<span class='yellow-b'>难</span>(注意两个词的<span class='orange-b'>读音</span>)
     - 维$$\color{green-c}(w\acute{e}i)$$ [查字典](http://www.zdic.net/z/21/js/7EF4.htm) -- <span class='yellow-b'>维</span>持
     - 雅$$\color{green-c}(y\breve{a})$$ [查字典](http://www.zdic.net/z/27/js/96C5.htm)
@@ -116,7 +116,7 @@
     - 拗$$\color{green-c}(\breve{a}o)$$$$\color{green-c}(\grave{a}o)$$ [查字典](http://www.zdic.net/z/1a/js/62D7.htm) -- <span class='yellow-b'>拗</span>$$\color{green-c}(\breve{a}o)$$断，<span class='yellow-b'>拗</span>$$\color{green-c}(\grave{a}o)$$口
     - 窈(六上，<span class='pink-b'>unit 4</span>)
 * <span class='pink-b'>兆</span>
-    - 兆 [查字典](http://www.zdic.net/z/15/js/5146.htm) -- 预<span class='yellow-b'>兆</span>
+    - 兆$$\color{green-c}(zh\grave{a}o)$$ [查字典](http://www.zdic.net/z/15/js/5146.htm) -- 预<span class='yellow-b'>兆</span>
     - 挑$$\color{green-c}(ti\bar{a}o)$$$$\color{red-c}(ti\breve{a}o)$$ [查字典](http://www.zdic.net/z/1a/js/6311.htm) - <span class='yellow-b'>挑</span>$$\color{green-c}(ti\bar{a}o)$$拣，<span class='yellow-b'>挑</span>$$\color{green-c}(ti\breve{a}o)$$<span class='orange-b'>拨</span>$$\color{green-c}(b\bar{o})$$
     - 跳 [查字典](http://www.zdic.net/z/25/js/8DF3.htm)
     - 眺$$\color{green-c}(ti\grave{a}o)$$ [查字典](http://www.zdic.net/z/1f/js/773A.htm) - <span class='yellow-b'>眺</span>望，远<span class='yellow-b'>眺</span>
