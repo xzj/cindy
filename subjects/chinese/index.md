@@ -67,11 +67,11 @@
 
 ## 多音字
 * <span class='pink-b'>和</span> [查字典](http://www.zdic.net/z/16/js/548C.htm)
-    - $$\color{green-c}h\acute{e}$$ -- 和平，讲和，和衣而卧
-    - $$\color{green-c}h\grave{e}$$ -- 唱和，曲高和寡
-    - $$\color{green-c}hu\acute{o}$$ -- 和面
-    - $$\color{green-c}hu\grave{o}$$ -- 和稀泥
-    - $$\color{green-c}h\acute{u}$$ -- 和牌
+    - $$\color{green-c}h\acute{e}$$ -- <span class='yellow-b'>和</span>平，讲<span class='yellow-b'>和</span>，<span class='yellow-b'>和</span>衣而卧
+    - $$\color{green-c}h\grave{e}$$ -- 唱<span class='yellow-b'>和</span>，曲高<span class='yellow-b'>和</span>寡
+    - $$\color{green-c}hu\acute{o}$$ -- <span class='yellow-b'>和</span>面
+    - $$\color{green-c}hu\grave{o}$$ -- <span class='yellow-b'>和</span>稀泥
+    - $$\color{green-c}h\acute{u}$$ -- <span class='yellow-b'>和</span>牌
 
 ## 形近字
 * <span class='pink-b'>句</span>
@@ -103,44 +103,46 @@
     - 赌(六上，<span class='pink-b'>unit 4</span>)
     - 猪 [查字典](http://www.zdic.net/z/1e/js/732A.htm)
     - 诸$$\color{green-c}(zh\bar{u})$$ [查字典](http://www.zdic.net/z/24/js/8BF8.htm) -- <span class='yellow-b'>诸</span>侯
+    - 署$$\color{green-c}(sh\breve{u})$$ [查字典](http://www.zdic.net/z/21/js/7F72.htm) -- <span class='yellow-b'>署</span>名，部<span class='yellow-b'>署</span>，官<span class='yellow-b'>署</span>
+    - 薯$$\color{green-c}(sh\breve{u})$$ [查字典](http://www.zdic.net/z/23/js/85AF.htm)
 * <span class='pink-b'>侯</span>，<span class='pink-b'>候</span>
-    - 侯
-    - 猴
-    - 候
+    - 侯 [查字典](http://www.zdic.net/z/15/js/4FAF.htm) -- 诸<span class='yellow-b'>侯</span>
+    - 猴 [查字典](http://www.zdic.net/z/1e/js/7334.htm)
+    - 候 [查字典](http://www.zdic.net/z/15/js/5019.htm) -- 等<span class='yellow-b'>候</span>，问<span class='yellow-b'>候</span>
 * <span class='pink-b'>幼</span>
-    - 幼
-    - 呦$$\color{green-c}(y\bar{o}u)$$ -- 屠呦呦
-    - 坳
-    - 拗
+    - 幼 [查字典](http://www.zdic.net/z/19/js/5E7C.htm)
+    - 呦$$\color{green-c}(y\bar{o}u)$$ [查字典](http://www.zdic.net/z/16/js/5466.htm) -- 屠<span class='yellow-b'>呦呦</span>(中国获得<span class='blue-b'>诺贝尔医学奖</span>的<span class='red-b'>第一人</span>)，<span class='yellow-b'>呦呦</span>待哺
+    - 坳$$\color{green-c}(\grave{a}o)$$ [查字典](http://www.zdic.net/z/17/js/5773.htm) -- 山<span class='yellow-b'>坳</span>
+    - 拗$$\color{green-c}(\breve{a}o)$$$$\color{green-c}(\grave{a}o)$$ [查字典](http://www.zdic.net/z/1a/js/62D7.htm) -- <span class='yellow-b'>拗</span>$$\color{green-c}(\breve{a}o)$$断，<span class='yellow-b'>拗</span>$$\color{green-c}(\grave{a}o)$$口
     - 窈(六上，<span class='pink-b'>unit 4</span>)
 * <span class='pink-b'>兆</span>
-    - 兆
-    - 挑
-    - 跳
-    - 眺
+    - 兆 [查字典](http://www.zdic.net/z/15/js/5146.htm) -- 预<span class='yellow-b'>兆</span>
+    - 挑$$\color{green-c}(ti\bar{a}o)$$$$\color{red-c}(ti\breve{a}o)$$ [查字典](http://www.zdic.net/z/1a/js/6311.htm) - <span class='yellow-b'>挑</span>$$\color{green-c}(ti\bar{a}o)$$拣，<span class='yellow-b'>挑</span>$$\color{green-c}(ti\breve{a}o)$$<span class='orange-b'>拨</span>$$\color{green-c}(b\bar{o})$$
+    - 跳 [查字典](http://www.zdic.net/z/25/js/8DF3.htm)
+    - 眺$$\color{green-c}(ti\grave{a}o)$$ [查字典](http://www.zdic.net/z/1f/js/773A.htm) - <span class='yellow-b'>眺</span>望，远<span class='yellow-b'>眺</span>
     - 窕(六上，<span class='pink-b'>unit 4</span>)
-    - 逃
-    - 桃
+    - 逃 [查字典](http://www.zdic.net/z/25/js/9003.htm)
+    - 桃 [查字典](http://www.zdic.net/z/1b/js/6843.htm)
 * <span class='pink-b'>叔</span>
-    - 叔
+    - 叔 [查字典](http://www.zdic.net/z/16/js/53D4.htm)
     - 淑(六上，<span class='pink-b'>unit 4</span>)
-    - 椒 -- 辣椒
+    - 椒$$\color{green-c}(ji\bar{a}o)$$ [查字典](http://www.zdic.net/z/1b/js/6912.htm) -- 辣<span class='yellow-b'>椒</span>
 * <span class='pink-b'>失</span>
-    - 失
-    - 跌
-    - 秩
-    - 轶
+    - 失 [查字典](http://www.zdic.net/z/17/js/5931.htm)
+    - 跌 [查字典](http://www.zdic.net/z/25/js/8DCC.htm)
+    - 秩$$\color{green-c}(zhì)$$ [查字典](http://www.zdic.net/z/20/js/79E9.htm) - <span class='yellow-b'>秩</span>序
+    - 轶$$\color{green-c}(yì)$$ [查字典](http://www.zdic.net/z/25/js/8F76.htm) - <span class='yellow-b'>轶</span>闻(注意与六上，<span class='pink-b'>unit 4</span>, <span class='orange-b'>逸</span> 的近似)
 * <span class='pink-b'>亘</span>
     - 亘(六上，<span class='pink-b'>unit 4</span>)
-    - 恒
-    - 桓
-    - 垣
+    - 恒$$\color{green-c}(h\acute{e}ng)$$ [查字典](http://www.zdic.net/z/19/js/6052.htm) - <span class='yellow-b'>恒</span>心，<span class='yellow-b'>恒</span>星，<span class='yellow-b'>恒</span>久，永<span class='yellow-b'>恒</span>
+    - 桓$$\color{green-c}(hu\acute{a}n)$$ [查字典](http://www.zdic.net/z/1b/js/6853.htm) - 齐<span class='yellow-b'>桓</span>公(<span class='orange-b'>春秋五霸</span>之首)
+    - 垣$$\color{green-c}(yu\acute{a}n)$$ [查字典](http://www.zdic.net/z/17/js/57A3.htm) - 断<span class='yellow-b'>垣</span>残壁
 * <span class='pink-b'>畏</span>
     - 畏(六上，<span class='pink-b'>unit 4</span>)
-    - 喂
-    - 偎
-    - 猥
-    - 煨
+    - 喂$$\color{green-c}(w\grave{e}i)$$ [查字典](http://www.zdic.net/z/16/js/5582.htm)
+    - 偎$$\color{green-c}(w\bar{e}i)$$ [查字典](http://www.zdic.net/z/15/js/504E.htm) - 依<span class='yellow-b'>偎</span>
+    - 猥$$\color{green-c}(w\breve{e}i)$$ [查字典](http://www.zdic.net/z/1e/js/7325.htm) - <span class='yellow-b'>猥</span>琐$$\color{green-c}(su\breve{o})$$
+    - 煨$$\color{green-c}(w\bar{e}i)$$ [查字典](http://www.zdic.net/z/1e/js/7168.htm) - <span class='yellow-b'>煨</span>白薯
 * <span class='pink-b'>辟</span>
     - 辟(pì)[查字典](http://www.zdic.net/z/25/js/8F9F.htm) -- 开辟
     - 辟(bì) -- 复辟
