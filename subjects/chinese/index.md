@@ -56,7 +56,7 @@
         - 神奇，优雅，<span class='yellow-b'>辨</span>认，清新，欢悦，清脆
         - <span class='yellow-b'>凝</span>$${\color{green-c}(}{\color{red-c}n}{\color{green-c}íng})$$<span class='yellow-b'>聚</span>，恶作剧，奇妙无比
         - 不拘$$\color{green-c}(j\bar{u})$$一格，年$${\color{green-c}(}{\color{red-c}n}{\color{green-c}i\acute{a}n})$$过花甲
-    * <span class='pink-b'>日积月累</span>
+    * <span class='pink-b'>日积月累 1</span>
         - <span class='yellow-b'>落红</span>不是无情物，化作<span class='yellow-b'>春</span>泥更护<span class='yellow-b'>花</span>。（<span class='red-b'>龚</span>$$\color{green-c}g\bar{o}ng$$<span class='red-b'>自珍</span>）
         - 造物无言却有<span class='yellow-b'>情</span>，每于寒尽觉<span class='yellow-b'>春</span><span class='blue-b'>生</span>。（<span class='red-b'>张维屏</span>）
         - 今夜偏知<span class='yellow-b'>春</span>气暖，虫声<span class='yellow-b'>新</span>透<span class='yellow-b'>绿</span>窗纱。（<span class='red-b'>刘方平</span>）
@@ -64,6 +64,131 @@
         - 卧看满天<span class='yellow-b'>云</span>不动，不知<span class='yellow-b'>云</span>与我俱东。（<span class='red-b'>陈与义</span>）
         - 不是<span class='yellow-b'>花</span>中偏爱<span class='yellow-b'>菊</span>，此花开尽更<span class='yellow-b'>无花</span>。（<span class='red-b'>元稹</span>$$\color{green-c}zh\breve{e}n$$）
     * <span class='pink-b'>unit 5</span>
+        - 施$$\color{green-c}(shī)$$ [查字典](http://www.zdic.net/z/1b/js/65BD.htm) -- <span class='yellow-b'>施</span>展
+        - 挠$${\color{green-c}(}{\color{red-c}n}{\color{green-c}\acute{a}o)}$$ [查字典](http://www.zdic.net/z/1a/js/6320.htm) -- <span class='yellow-b'>挠</span>痒
+        - 庸$$\color{green-c}(y\bar{o}ng)$$ [查字典](http://www.zdic.net/z/19/js/5EB8.htm) -- <span class='yellow-b'>庸</span>俗
+        - 艰$$\color{green-c}(ji\bar{a}n)$$ [查字典](http://www.zdic.net/z/22/js/8270.htm) -- <span class='yellow-b'>艰</span>难
+        - 毅$$\color{green-c}(y\grave{i})$$ [查字典](http://www.zdic.net/z/1c/js/6BC5.htm) -- <span class='yellow-b'>毅</span>然，坚<span class='yellow-b'>毅</span>
+        - 铲$$\color{green-c}(ch\breve{a}n)$$ [查字典](http://www.zdic.net/z/27/js/94F2.htm) -- <span class='yellow-b'>铲</span>除
+        - 劣$$\color{green-c}(li\grave{e})$$ [查字典](http://www.zdic.net/z/16/js/52A3.htm) -- 恶<span class='yellow-b'>劣</span>
+        - 惹$$\color{green-c}(r\breve{e})$$ [查字典](http://www.zdic.net/z/19/js/60F9.htm) -- 招<span class='yellow-b'>惹</span>
+        - 讥$$\color{green-c}(jī)$$ [查字典](http://www.zdic.net/z/24/js/8BA5.htm) -- <span class='yellow-b'>讥</span>笑
+        - 浆$$\color{green-c}(ji\bar{a}ng)$$ [查字典](http://www.zdic.net/z/1c/js/6D46.htm) -- <span class='yellow-b'>浆</span>糊，<span class='yellow-b'>浆</span>洗
+        - 岔$$\color{green-c}(ch\grave{a})$$ [查字典](http://www.zdic.net/z/18/js/5C94.htm) -- 打<span class='yellow-b'>岔</span>
+        - 蔑$$\color{green-c}(mi\grave{e})$$ [查字典](http://www.zdic.net/z/23/js/8511.htm) -- <span class='yellow-b'>蔑</span>视
+        - 纬$$\color{green-c}(w\breve{e}i)$$ [查字典](http://www.zdic.net/z/21/js/7EAC.htm) -- 经<span class='yellow-b'>纬</span>
+        - 隧$${\color{green-c}(}{\color{red-c}s}{\color{green-c}uì)}$$ [查字典](http://www.zdic.net/z/27/js/96A7.htm) -- <span class='yellow-b'>隧</span>道
+        - 竣$$\color{green-c}(j\grave{u}n)$$ [查字典](http://www.zdic.net/z/20/js/7AE3.htm) -- <span class='yellow-b'>竣</span>工
+        - 藐$$\color{green-c}(mi\breve{a}o)$$ [查字典](http://www.zdic.net/z/23/js/85D0.htm) -- <span class='yellow-b'>藐</span>视
+    * <span class='pink-b'>unit 6</span>
+        - 挚(zh\grave{i})
+        - 寝(q\breve{i}n)
+        - 频(p\acute{i}n)
+        - 朦(m\acute{o}ng)
+        - 胧(l\acute{o}ng)
+        - 凄(q\bar{i})
+        - 斑(b\bar{a}n)
+        - 篇(pi\bar{a}n)
+        - 廷(t\acute{i}ng)
+        - 怅(ch\grave{a}ng)
+    * <span class='pink-b'>unit 7</span>
+        - 墩(d\bar{u}n)
+        - 撅(ju\bar{e})
+        - 雌(c\acute{i})
+        - 啧(z\acute{e})
+    * <span class='pink-b'>unit 8</span>
+        - 翱(\acute{a}o) - 翱翔
+        - 莽(m\breve{a}ng)
+        - 仑(l\acute{u}n) - 昆仑
+        - 劲(j\grave{i}ng)(j\grave{i}n) - 刚劲
+        - 浒(h\breve{u})
+        - 娲(w\bar{a}) - 女娲
+        - 禹(y\breve{u}) - 大禹
+        - 萦(y\acute{i}ng) - 萦绕
+        - 蹒(p\acute{a}n)跚{sh\bar{a}n} - 蹒跚学步
+        - 敖(\acute{a}o) - 敖包
+        - 哈(h\breve{a})(h\bar{a}) - 哈达
+        - 铭(m\acute{i}ng) - 铭记
+        - 纤(qi\grave{a}n)(xi\bar{a}n) - 纤夫
+        - 焊(h\grave{a}n) - 焊接
+        - 璀(cu\breve{i})璨(c\grave{a}n)
+        - 笙(sh\bar{e}ng) - 芦(l\acute{u})笙
+        - 唢(su\breve{o})呐(n\grave{a})
+        - 竞(j\grave{i}ng) - 竞相
+    * <span class='pink-b'>读读写写 2</span>
+        - 杰出，修筑，设计，施工，阻挠，控制
+        - 轰动，艰巨，毅然，铲平，勉励，恶劣
+        - 泥浆，岔道，真挚，朦胧，凄凉，引用
+        - 强烈，居庸关，悬崖峭壁，狂风怒号
+        - 惹人讥笑，寝不安席，思潮起伏，可见一斑
+    * <span class='pink-b'>读读记记 2</span>
+        - 勘测，调节，沉闷，分享，抚养，纯洁
+        - 热烈，刚劲，领略，复苏，先驱，迷恋
+        - 装点，惊叹，碧空如洗，波涛起伏
+        - 水落石出，百折不回，牙牙学语
+    * <span class='pink-b'>日积月累 2</span>
+        - 我们爱我们的民族，这是我们自信心的源泉。(周恩来)
+        - 我是中国人民的儿子，我深情地爱着我的祖国和人民。(邓小平)
+        - 惟有民魂是值得宝贵的，惟有他发扬起来，中国才有真进步。（鲁迅）
+        - 我爱我的祖国，爱我的人民，离开了她，离开了他们，我就无法生存，更无法写作。（巴金）
+    * <span class='pink-b'>unit 9</span>
+        - 搁(g\bar{e})
+        - 填(ti\acute{a}n)
+        - 怨(yu\grave{a}n)
+        - 掀(xi\bar{a}n)
+        - 唉(\grave{a}i)
+        - 裹(gu\breve{o})
+        - 魁(ku\acute{i})梧(w\acute{u})
+        - 淋(l\acute{i}n)
+        - 撕(s\bar{i})
+        - 霉(m\acute{e}i)
+        - 虑(lǜ)
+        - 呼啸(xi\grave{a}o)
+        - 汹(xi\bar{o}ng)涌澎(p\acute{e}ng)湃(p\grave{a}i)
+        - 保佑(y\grave{o}u)
+        - 寡(gu\breve{a})妇
+        - 蜷(qu\acute{a}n)缩
+        - 揍(z\grave{o}u)
+        - 嗯(\grave{n}g)
+        - 吱嘎(g\bar{a})
+        - 黧(l\acute{i})黑
+        - 搔(s\bar{a}o)
+        - 刻骨铭(m\acute{i}ng)心
+        - 瞥(pi\bar{e})见
+        - 嗫(ni\grave{e})嚅(r\acute{u})
+        - 攥(zu\grave{a}n)着 [查字典](http://www.zdic.net/z/1a/js/6525.htm)
+    * <span class='pink-b'>unit 10</span>
+        - 悠(y\bar{o}u)
+        - 仪(y\acute{i})
+        - 歉(qi\grave{a}n)
+        - 溜(li\bar{u})
+        - 嘿(h\bar{e}i)
+        - 割(g\bar{e})
+        - 蹑(ni\grave{e})手蹑脚
+    * <span class='pink-b'>unit 11</span>
+        - 水槽(c\acute{a}o)
+        - 珊(sh\bar{a}n)
+    * <span class='pink-b'>读读写写 3</span>
+        - 舒适，搁板，勉强，抱怨，倾听，掀起
+        - 魁梧，撕破，倒霉，严肃，忧虑，神圣
+        - 悠悠，庄重，仪式，抱歉，溜走，介意
+        - 追问，荒唐，声望，割舍，湿淋淋，心惊肉跳
+        - 自言自语，自作自受，缝缝补补，大吃一惊
+    * <span class='pink-b'>读读记记 3</span>
+        - 残疾，瘦削，宽厚，张皇，竭力，泰然
+        - 强制，茫然，劝阻，焦黄，着迷，耐心
+        - 修理，流连忘返，身无分文，溜之大吉
+        - 十指连心，怒目圆睁，兴高采烈
+    * <span class='pink-b'>日积月累 3</span>
+        - 轻诺必寡信《老子》
+        - 民无信不立。《论语》
+        - 不精不诚，不能动人。《庄子》
+        - 诚者，天之道也；诚之者，人之道也。《礼记》
+        - 有所期诺，纤毫必偿；有所期约，时刻不易。《袁氏世范》
+    * <span class='pink-b'>unit 12</span>
+
+## 近义词
+* 蔑视 - 藐视 - 轻视
 
 ## 多音字
 * <span class='pink-b'>和</span> [查字典](http://www.zdic.net/z/16/js/548C.htm)
@@ -72,8 +197,87 @@
     - $$\color{green-c}hu\acute{o}$$ -- <span class='yellow-b'>和</span>面
     - $$\color{green-c}hu\grave{o}$$ -- <span class='yellow-b'>和</span>稀泥
     - $$\color{green-c}h\acute{u}$$ -- <span class='yellow-b'>和</span>牌
+* 咽
+* 丧
+* 劲
+* 哈
+* 纤
+* 闷
+* 兴
 
 ## 形近字
+* 斑，班
+    - 班
+    - 斑
+* 竞，竟
+    - 竞(六上，unit 8)
+    - 竟
+* 名
+    - 名
+    - 铭(六上，unit 8)
+    - 茗
+* 经
+    - 经
+    - 劲(见 多音字)
+    - 径
+    - 茎
+    - 颈
+    - 痉
+    - 胫
+    - 迳
+* 扁
+    - 扁
+    - 遍
+    - 编
+    - 匾
+    - 篇(六上，unit 6)
+    - 偏
+    - 骗
+    - 翩
+* 蔑
+    - 蔑(六上，unit 5)
+    - 篾$$\color{green-c}(mi\grave{e})$$ [查字典](http://www.zdic.net/z/20/js/7BFE.htm) -- 竹<span class='yellow-b'>篾</span>
+* 若
+    - 若
+    - 偌$$\color{green-c}(r\grave{u}o)$$ [查字典](http://www.zdic.net/z/15/js/504C.htm) - <span class='yellow-b'>偌大</span>的地方
+    - 诺$$\color{green-c}(n\grave{u}o)$$ [查字典](http://www.zdic.net/z/24/js/8BFA.htm) - 唯唯<span class='yellow-b'>诺诺</span>
+    - 惹(六上，unit 5)
+* 艮
+    - 艮$$\color{green-c}(g\grave{e}n)$$ [查字典](http://www.zdic.net/z/22/js/826E.htm)
+    - 很
+    - 狠
+    - 恨
+    - 痕$$\color{green-c}(h\acute{e}n)$$ [查字典](http://www.zdic.net/z/1f/js/75D5.htm) - <span class='yellow-b'>痕</span>迹
+    - 银
+    - 根
+    - 跟
+    - 艰(六上，unit 5)
+* 貌
+    - 貌
+    - 藐(六上，unit 5)
+* 俊
+    - 俊
+    - 竣(六上，unit 5)
+    - 骏 - 骏马
+    - 峻$$\color{green-c}(j\grave{u}n)$$ [查字典](http://www.zdic.net/z/18/js/5CFB.htm) - 严<span class='yellow-b'>峻</span>，<span class='yellow-b'>峻</span>峭
+    - 浚$$\color{green-c}(j\grave{u}n)$$ [查字典](http://www.zdic.net/z/1c/js/6D5A.htm) - 疏<span class='yellow-b'>浚</span>
+* 遂
+    - 遂$$\color{green-c}(suì)$$ [查字典](http://www.zdic.net/z/25/js/9042.htm) - 未<span class='yellow-b'>遂</span>
+    - 隧(六上，unit 5)
+    - 邃$$\color{green-c}(suì)$$ [查字典](http://www.zdic.net/z/25/js/9083.htm) - 深<span class='yellow-b'>邃</span>
+    - 燧$$\color{green-c}(suì)$$ [查字典](http://www.zdic.net/z/1e/js/71E7.htm) - <span class='yellow-b'>燧</span>人氏(中国传说中人工取火的发明者)
+* 韦
+    - 韦$$\color{green-c}(w\acute{e}i)$$ [查字典](http://www.zdic.net/z/27/js/97E6.htm)
+    - 伟
+    - 纬(六上，unit 5)
+    - 违 - 违反
+    - 苇$$\color{green-c}(w\breve{e}i)$$ [查字典](http://www.zdic.net/z/22/js/82C7.htm) - 芦<span class='yellow-b'>苇</span>
+* 将
+    - 将$$\color{green-c}(ji\bar{a}ng)$$$$\color{red-c}(ji\grave{a}ng)$$ [查字典](http://www.zdic.net/z/18/js/5C06.htm) - <span class='yellow-b'>将</span>来，<span class='yellow-b'>将</span>军，<span class='yellow-b'>将</span>$$\color{red-c}(ji\grave{a}ng)$$领
+    - 蒋$$\color{green-c}(ji\breve{a}ng)$$ [查字典](http://www.zdic.net/z/22/js/848B.htm) - <span class='yellow-b'>蒋</span>介石
+    - 浆(六上，unit 5)
+    - 奖$$\color{green-c}(ji\breve{a}ng)$$ [查字典](http://www.zdic.net/z/17/js/5956.htm) - 夸<span class='yellow-b'>奖</span>
+    - 桨$$\color{green-c}(ji\breve{a}ng)$$ [查字典](http://www.zdic.net/z/1b/js/6868.htm) - 船<span class='yellow-b'>桨</span>
 * <span class='pink-b'>句</span>
     - 句$$\color{green-c}(j\grave{u})$$$$\color{red-c}(g\bar{o}u)$$ [查字典](http://www.zdic.net/z/16/js/53E5.htm)
     - 拘$$\color{green-c}(j\bar{u})$$ [查字典](http://www.zdic.net/z/1a/js/62D8.htm) -- <span class='yellow-b'>拘</span>束，<span class='yellow-b'>拘</span>捕
@@ -91,6 +295,9 @@
     - 难$$\color{green-c}(n\acute{a}n)$$$$\color{red-c}(n\grave{a}n)$$$$\color{green-c}(nu\acute{o})$$ [查字典](http://www.zdic.net/z/27/js/96BE.htm) -- 困<span class='yellow-b'>难</span>，苦<span class='yellow-b'>难</span>(注意两个词的<span class='orange-b'>读音</span>)
     - 维$$\color{green-c}(w\acute{e}i)$$ [查字典](http://www.zdic.net/z/21/js/7EF4.htm) -- <span class='yellow-b'>维</span>持
     - 雅$$\color{green-c}(y\breve{a})$$ [查字典](http://www.zdic.net/z/27/js/96C5.htm)
+    - 雌(六上，unit 7)
+    - 唯
+    - 惟(六上，日积月累 2)
 * <span class='pink-b'>堂</span>
     - 堂 [查字典](http://www.zdic.net/z/17/js/5802.htm)
     - <span class='yellow-b'>膛</span> [查字典](http://www.zdic.net/z/22/js/819B.htm) -- 胸<span class='yellow-b'>膛</span>，枪<span class='yellow-b'>膛</span>
@@ -144,10 +351,11 @@
     - 猥$$\color{green-c}(w\breve{e}i)$$ [查字典](http://www.zdic.net/z/1e/js/7325.htm) - <span class='yellow-b'>猥</span>琐$$\color{green-c}(su\breve{o})$$
     - 煨$$\color{green-c}(w\bar{e}i)$$ [查字典](http://www.zdic.net/z/1e/js/7168.htm) - <span class='yellow-b'>煨</span>白薯
 * <span class='pink-b'>辟</span>
-    - 辟(pì)[查字典](http://www.zdic.net/z/25/js/8F9F.htm) -- 开辟
-    - 辟(bì) -- 复辟
-    - 劈
+    - 辟$$\color{green-c}(pì)$$ [查字典](http://www.zdic.net/z/25/js/8F9F.htm) -- 开辟
+    - 辟$$\color{green-c}(bì)$$ -- 复$$\color{green-c}(f\grave{u})$$辟
+    - 劈$$\color{green-c}(pī)$$$$\color{red-c}(pǐ)$$ [查字典](http://www.zdic.net/z/16/js/5288.htm) - <span class='yellow-b'>劈</span>$$\color{green-c}(pī)$$杀，<span class='yellow-b'>劈</span>$$\color{green-c}(pī)$$成两半，<span class='yellow-b'>劈</span>$$\color{red-c}(pǐ)$$柴
     - 僻(六上，<span class='pink-b'>unit 3</span>)
+    - 癖$$\color{green-c}(pǐ)$$ [查字典](http://www.zdic.net/z/1f/js/7656.htm) -- 怪<span class='yellow-b'>癖</span>
 * <span class='pink-b'>襄</span>
     - 襄
     - 嚷

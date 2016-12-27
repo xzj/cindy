@@ -67,6 +67,8 @@
 - 复数特殊的名词
     - <span class='blue-b'>单复同形</span>
         * <span class='n'>sheep</span>(六上，<span class='pink-b'>unit 1</span>) - 绵羊
+    - <span class='blue-b'>c</span> 开头
+        * child - child<span class='red-b'>ren</span>
     - <span class='blue-b'>g</span> 开头
         * g<span class='green-b'>oo</span>se(六上，<span class='pink-b'>unit 1</span>) - g<span class='red-b'>ee</span>se
 - <span class='pink-b'>特殊过去式</span>的动词
@@ -214,31 +216,87 @@
             * 农场生活，健康的生活，每天，大量的、充分的，许多，充分的锻炼，超过...、多过...
     * <span class='unit'>Module 2</span>
         - <span class='prep-title'>**介词(prep.)**</span>
+            * at home
             * <span class='prep'>at</span> <span class='n'>night</span>
+            * for two hours
+            * for one week
             * <span class='prep'>in</span> <span class='adj'>one's</span> free <span class='n'>time</span>
+            * in the city
+            * in the countryside
+            * in good health = healthy
         - <span class='v-title'>**动词(v.)**</span>
-            * <span class='v'>be</span> <span class='adj'>afraid</span> <span class='prep'>to</span>
+            * ask sb. to do sth.
+            * <span class='v'>be</span> <span class='adj'>afraid</span> to + <span class='v'>*do*</span>
+            * be well soon
+            * brush teeth twice a day
             * <span class='v'>was</span>/<span class='v'>were</span> <span class='adj'>born</span> - 原型应该是 <span class='v'>be</span> + <span class='adj'>born</span>，但最常用的是 <span class='n'>sb.</span> + <span class='v'>was</span>/<span class='v'>were</span> + <span class='adj'>born</span>，表示<span class='n'>某人或动物</span><span class='v'>出生</span>在什么时候，或什么地方。
-            * can't <span class='v'>wait</span> to + <span class='v'>do</span>
+            * can't <span class='v'>wait</span> to + <span class='v'>*do*</span>
             * <span class='v'>come</span> <span class='prep'>from</span><span class='font-bold'>,</span> <span class='v'>be</span> <span class='prep'>from</span>
+            * drink plenty of water
+            * eat some bad food
+            * eat too much candy
+            * eat too much ice cream
+            * feel good
+            * feel ill
+            * fall from the bike
             * <span class='v'>get</span> <span class='adv'>back</span> <span class='n'>home</span>
+            * give me a check-up
             * <span class='v'>go</span> to <span class='adj'>different</span> <span class='n'>shows</span>
             * <span class='v'>go</span> to <span class='v'>sleep</span>
-            * <span class='v'>have</span> <span class='adj'>no</span> <span class='n'>time</span> to <span class='v'>do</span> <span class='n'>sth.</span>
+            * <span class='v'>have</span> <span class='adj'>no</span> <span class='n'>time</span> to <span class='v'>*do*</span> <span class='n'>*sth.*</span>
                 - 注意：no = not any
-            * <span class='v'>like</span> + <span class='n'>doing</span>
+            * I'm sorry to hear that.
+            * keep a good diet
+            * <span class='v'>like</span> + <span class='n'>*doing*</span>
+            * miss you
             * <span class='v'>move</span> to
             * <span class='v'>play</span> <span class='adj'>all</span> <span class='n'>day</span>
+            * see a doctor
+            * should be careful
+            * take a rest
+            * take plenty of exercise
+            * take the medicine
             * <span class='v'>visit</span> a <span class='n'>museum</span>
+            * walk for one hour
+            * wear wet clothes
+            * What's the matter with you?
+            * worry too much
+        - <span class='n-title'>**名词(n.)**</span>
+            * an expensive house
+            * a noisy restaurant
+            * a quiet park
+            * beautiful modern buildings
+            * different things
+            * have a stomachache
+            * have a toothache
+            * have a headache
+            * have a cold
+            * have a fever
+            * have a broken finger
+            * have a smile on the face
+            * plenty of sleep
+            * the most important thing for ...
+            * the secret to good health
+            * things to stay health
+            * three times a day
+            * too much sweet
         - <span class='adj-title'>**形容词(adj.)**</span>
             * <span class='adj'>each</span> <span class='n'>other</span>
-            * <span class='v'>be</span> <span class='adj'>different</span> <span class='prep'>from</span> <span class='n'>sth.</span>
+            * <span class='v'>be</span> <span class='adj'>different</span> <span class='prep'>from</span> <span class='n'>*sth.*</span>
+            * different to ...
             * <span class='adv'>much</span> <span class='adj'>more</span>.
+            * <span class='adv'>too</span> <span class='adj'>many</span> cars
     * <span class='unit'>Module 3</span>
 
 ## 作文
 - <span class='blue-b'>country life</span>
-    * <span class='prep'>In</span> the country, there <span class='v'>is</span> <span class='adj'>no</span> <span class='n'>noisy</span>. <span class='prep'>In</span> the country, there <span class='v'>are</span> fruit <span class='n'>trees</span>. <span class='n'>I</span> <span class='v'>can pick</span> fruit <span class='prep'>from</span> the <span class='n'>trees</span>. <span class='prep'>In</span> the country, there are <span class='n'>chickens</span> and <span class='n'>ducks</span>. <span class='n'>I</span> <span class='v'>can feed</span> chickes and ducks. <span class='prep'>In</span> the country, I <span class='v'>have</span> <span class='adj'>clean</span> air and <span class='adj'>fresh</span> food. <span class='adv'>So</span> I <span class='v'>think</span> a country <span class='n'>life</span> is a <span class='adj'>healthy</span> <span class='n'>life</span>.
+    * <span class='n'>I</span> <span class='v'>like</span> <span class='n'>the</span> country life. <span class='prep'>In</span> the <span class='n'>country</span>, there <span class='v'>is</span> <span class='adj'>no</span> <span class='n'>noisy</span>. <span class='prep'>In</span> the <span class='n'>country</span>, there <span class='v'>are</span> fruit <span class='n'>trees</span>. <span class='n'>I</span> <span class='v'>can pick</span> fruit <span class='prep'>from</span> the <span class='n'>trees</span>. <span class='prep'>In</span> the <span class='n'>country</span>, there <span class='v'>are</span> <span class='n'>chickens</span> and <span class='n'>ducks</span>. <span class='n'>I</span> <span class='v'>can feed</span> <span class='n'>the</span> chickes and ducks. <span class='prep'>In</span> the <span class='n'>country</span>, <span class='n'>I</span> <span class='v'>have</span> <span class='adj'>clean</span> air and <span class='adj'>fresh</span> food. <span class='adv'>So</span> <span class='n'>I</span> <span class='v'>think</span> a country <span class='n'>life</span> is a <span class='adj'>healthy</span> <span class='n'>life</span>.
+- <span class='blue-b'>yesterday</span>
+    * <span class='n'>Yesterday</span> <span class='v'>was</span> Saturday. <span class='n'>I</span> <span class='v'>had</span> a busy <span class='n'>time</span>. <span class='n'>I</span> <span class='v'>went</span> shopping <span class='prep'>with</span> my mother. <span class='n'>I</span> <span class='v'>bought</span> a new pair of sport <span class='n'>shoes</span>. <span class='n'>I</span> <span class='v'>played</span> basketball. <span class='n'>I</span> <span class='v'>cleaned</span> my room. <span class='n'>I</span> <span class='v'>did</span> my homework. <span class='n'>I</span> <span class='v'>had</span> a delicious <span class='n'>food</span> <span class='prep'>at</span> a restaurant. <span class='n'>I</span> <span class='v'>had</span> a good time <span class='adj'>last</span> <span class='n'>Saturday</span>.
+- <span class='blue-b'>Christmas</span>
+    * In many countries, Christmas is the most important festival of the year. Christmas is always on December 25th. Father Christmas will come to their home on/at? the night before Christmas and put their gifts under the tree or in a sock. Families and friends come together on Christmas for a big dinner or lunch. Everyone sings many wonderful Christmas songs. It really is a happy time.
+- <span class='blue-b'>Spring Festival</span>
+    * I like the Spring Festival best. It is so much fun. The Spring Festival is the Chinese New Year. So people usually clean their houses and buy new clothes to make everything new and fresh. Parents will give their children some lucky money. We will go to visit our family and friends and wish them a happy Spring Festival. We will also have a big dinner with jiaozi and lots of other delicious food.
 
 ## 词法语法
 - <span class='green-b'>词法</span>
