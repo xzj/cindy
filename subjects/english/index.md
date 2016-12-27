@@ -69,86 +69,87 @@
         * <span class='n'>sheep</span>(六上，<span class='pink-b'>unit 1</span>) - 绵羊
     - <span class='blue-b'>g</span> 开头
         * g<span class='green-b'>oo</span>se(六上，<span class='pink-b'>unit 1</span>) - g<span class='red-b'>ee</span>se
-- 特殊过去式的动词
+- <span class='pink-b'>特殊过去式</span>的动词
     - 过去式<span class='blue-b'>同原形</span>
-        * cut - cut
-        * let - let
-        * must - must
-        * put - put
-        * read - read(六上，<span class='pink-b'>unit 7</span>)
+        * **cut** - <span class='yellow-b'>cut</span>
+        * **let** - <span class='yellow-b'>let</span>
+        * **must** - <span class='yellow-b'>must</span>
+        * **put** - <span class='yellow-b'>put</span>
+        * **read** - <span class='yellow-b'>read</span>(六上，<span class='pink-b'>unit 7</span>)
+    - 过去式 <span class='red-b'>不规则</span>/<span class='green-b'>规则</span> 都有的动词
+        * **learn** - **learn**<span class='red-b'>t</span>/**learn**<span class='green-b'>ed</span>
+        * **smel**<span class='green-b'>l</span> - **smel**<span class='red-b'>t</span>/**smell**<span class='green-b'>ed</span>
     - <span class='blue-b'>a</span> 开头
-        * am, is - was
-        * are - were
+        * <span class='green-b'>am</span>, <span class='green-b'>is</span> - <span class='red-b'>was</span>
+        * <span class='green-b'>are</span> - <span class='red-b'>were</span>
     - <span class='blue-b'>b</span> 开头
-        * begin - began
-        * bring - brought(六上，<span class='pink-b'>unit 12</span>)
-        * buy - bought(六上，<span class='pink-b'>unit 7</span>)
-        * build - built
+        * **beg**<span class='green-b'>i</span>**n** - **beg**<span class='red-b'>a</span>**n**
+        * **br**<span class='green-b'>ing</span> - **br**<span class='red-b'>ought</span>(六上，<span class='pink-b'>unit 12</span>)，注意与 **b**<span class='green-b'>uy</span>、**th**<span class='green-b'>ink</span> 的相似
+        * **b**<span class='green-b'>uy</span> - **b**<span class='red-b'>ought</span>(六上，<span class='pink-b'>unit 7</span>)，注意与 **br**<span class='green-b'>ing</span>、**th**<span class='green-b'>ink</span> 的相似
+        * **buil**<span class='green-b'>d</span> - **buil**<span class='red-b'>t</span>
     - <span class='blue-b'>c</span> 开头
-        * can - could(六上，<span class='pink-b'>unit 5</span>)
-        * come - came(六上，<span class='pink-b'>unit 7</span>)
+        * **c**<span class='green-b'>an</span> - **c**<span class='red-b'>ould</span>(六上，<span class='pink-b'>unit 5</span>)
+        * **c**<span class='green-b'>o</span>**me** - **c**<span class='red-b'>a</span>**me**(六上，<span class='pink-b'>unit 7</span>)
     - <span class='blue-b'>d</span> 开头
-        * do - did
-        * draw - drew
-        * drink - drank
-        * drive - drove
+        * **d**<span class='green-b'>o</span> - **d**<span class='red-b'>id</span>
+        * **dr**<span class='green-b'>a</span>**w** - **dr**<span class='red-b'>e</span>**w**
+        * **dr**<span class='green-b'>i</span>**nk** - **dr**<span class='red-b'>a</span>**nk**
+        * **dr**<span class='green-b'>i</span>**ve** - **dr**<span class='red-b'>o</span>**ve**
     - <span class='blue-b'>e</span> 开头
-        * eat - ate(六上，<span class='pink-b'>unit 5</span>)
+        * <span class='green-b'>eat</span> - <span class='red-b'>ate</span>(六上，<span class='pink-b'>unit 5</span>)
     - <span class='blue-b'>f</span> 开头
-        * fall - fell
-        * feed - fed
-        * feel - felt(六上，<span class='pink-b'>unit 8</span>)
-        * find - found
-        * fly - flew
-        * forget - forgot
+        * **f**<span class='green-b'>a</span>**ll** - **f**<span class='red-b'>e</span>**ll**
+        * **f**<span class='green-b'>ee</span>**d** - **f**<span class='red-b'>e</span>**d**，注意与 **m**<span class='green-b'>ee</span>**t** 的相似
+        * **f**<span class='green-b'>eel</span> - **f**<span class='red-b'>elt</span>(六上，<span class='pink-b'>unit 8</span>)
+        * **f**<span class='green-b'>i</span>**nd** - **f**<span class='red-b'>ou</span>**nd**
+        * **fl**<span class='green-b'>y</span> - **fl**<span class='red-b'>ew</span>
+        * **forg**<span class='green-b'>e</span>**t** - **forg**<span class='red-b'>o</span>**t**
     - <span class='blue-b'>g</span> 开头
-        * get - got
-        * give - gave(六上，<span class='pink-b'>unit 5</span>)
-        * go - went
-        * grow - grew
+        * **g**<span class='green-b'>e</span>**t** - **g**<span class='red-b'>o</span>**t**
+        * **g**<span class='green-b'>i</span>**ve** - **g**<span class='red-b'>a</span>**ve**(六上，<span class='pink-b'>unit 5</span>)
+        * <span class='green-b'>go</span> - <span class='red-b'>went</span>
+        * **gr**<span class='green-b'>o</span>**w** - **gr**<span class='red-b'>e</span>**w**，注意与 **kn**<span class='green-b'>o</span>**w** 的相似
     - <span class='blue-b'>h</span> 开头
-        * have - had
-        * hear(六上，<span class='pink-b'>unit 5</span>) - heard
+        * **ha**<span class='green-b'>ve</span> - **ha**<span class='red-b'>d</span>
+        * **hear**(六上，<span class='pink-b'>unit 5</span>) - **hear**<span class='red-b'>d</span>
     - <span class='blue-b'>i</span> 开头
-        * is, am - was
+        * <span class='green-b'>is</span>, <span class='green-b'>am</span> - <span class='red-b'>was</span>
     - <span class='blue-b'>k</span> 开头
-        * keep - kept
-        * know - knew
+        * **k**<span class='green-b'>eep</span> - **k**<span class='red-b'>ept</span>，注意与 **sl**<span class='green-b'>eep</span> 的相似
+        * **kn**<span class='green-b'>o</span>**w** - **kn**<span class='red-b'>e</span>**w**，注意与 **gr**<span class='green-b'>o</span>**w** 的相似
     - <span class='blue-b'>l</span> 开头
-        * learn - learnt/learned
-        * leave - left
+        * **le**<span class='green-b'>ave</span> - **le**<span class='red-b'>ft</span>
     - <span class='blue-b'>m</span> 开头
-        * make - made
-        * may - might
-        * meet - met(六上，<span class='pink-b'>unit 7</span>)
+        * **ma**<span class='green-b'>k</span>**e** - **ma**<span class='red-b'>d</span>**e**
+        * **m**<span class='green-b'>ay</span> - **m**<span class='red-b'>ight</span>
+        * **m**<span class='green-b'>ee</span>**t** - **m**<span class='red-b'>e</span>**t**(六上，<span class='pink-b'>unit 7</span>)，注意与 **f**<span class='green-b'>ee</span>**d** 的相似
     - <span class='blue-b'>r</span> 开头
-        * r<span class='green-b'>i</span>de(六上，<span class='pink-b'>unit 2</span>) - r<span class='red-b'>o</span>de
-        * run - ran
+        * **r**<span class='green-b'>i</span>**de**(六上，<span class='pink-b'>unit 2</span>) - **r**<span class='red-b'>o</span>**de**
+        * **r**<span class='green-b'>u</span>**n** - **r**<span class='red-b'>a</span>**n**
     - <span class='blue-b'>s</span> 开头
-        * say - said
-        * see - saw(六上，<span class='pink-b'>unit 7</span>)
-        * sell(六上，<span class='pink-b'>unit 4</span>) - sold
-        * shall - should
-        * shine - shone
-        * sing - sang
-        * sit - sat(六上，<span class='pink-b'>unit 8</span>)
-        * sleep - slept
-        * smell - smelt/smelled
-        * speak - spoke
-        * stand - stood
-        * swim - swam
+        * **sa**<span class='green-b'>y</span> - **sa**<span class='red-b'>id</span>
+        * **s**<span class='green-b'>ee</span> - **s**<span class='red-b'>aw</span>(六上，<span class='pink-b'>unit 7</span>)
+        * **s**<span class='green-b'>ell</span>(六上，<span class='pink-b'>unit 4</span>) - **s**<span class='red-b'>old</span>，注意与 **t**<span class='green-b'>ell</span> 的相似
+        * **sh**<span class='green-b'>all</span> - **sh**<span class='red-b'>ould</span>
+        * **sh**<span class='green-b'>i</span>**ne** - **sh**<span class='red-b'>o</span>**ne**
+        * **s**<span class='green-b'>i</span>**ng** - **s**<span class='red-b'>a</span>**ng**
+        * **s**<span class='green-b'>i</span>**t** - **s**<span class='red-b'>a</span>**t**(六上，<span class='pink-b'>unit 8</span>)
+        * **sl**<span class='green-b'>eep</span> - **sl**<span class='red-b'>ept</span>，注意与 **k**<span class='green-b'>eep</span> 的相似
+        * **sp**<span class='green-b'>eak</span> - **sp**<span class='red-b'>oke</span>
+        * **st**<span class='green-b'>an</span>**d** - **st**<span class='red-b'>oo</span>**d**
+        * **sw**<span class='green-b'>i</span>**m** - **sw**<span class='red-b'>a</span>**m**
     - <span class='blue-b'>t</span> 开头
-        * take(六上，<span class='pink-b'>unit 2</span>) - took
-        * teach - taught
-        * tell - told
-        * think - thought
+        * **t**<span class='green-b'>ake</span>(六上，<span class='pink-b'>unit 2</span>) - **t**<span class='red-b'>ook</span>
+        * **t**<span class='green-b'>each</span> - **t**<span class='red-b'>aught</span>
+        * **t**<span class='green-b'>ell</span> - **t**<span class='red-b'>old</span>，注意与 **s**<span class='green-b'>ell</span> 的相似
+        * **th**<span class='green-b'>ink</span> - **th**<span class='red-b'>ought</span>，注意与 **b**<span class='green-b'>uy</span>、**br**<span class='green-b'>ing</span> 的相似
     - <span class='blue-b'>u</span> 开头
-        * understand - understood
+        * **underst**<span class='green-b'>an</span>**d** - **underst**<span class='red-b'>oo</span>**d**，注意与 **st**<span class='green-b'>an</span>**d** 的相似
     - <span class='blue-b'>w</span> 开头
-        * wake - woke
-        * wear - wore(六上，<span class='pink-b'>unit 5</span>)
-        * will - would
-        * write - wrote
+        * **w**<span class='green-b'>a</span>**ke** - **w**<span class='red-b'>o</span>**ke**
+        * **w**<span class='green-b'>ear</span> - **w**<span class='red-b'>ore</span>(六上，<span class='pink-b'>unit 5</span>)
+        * **w**<span class='green-b'>ill</span> - **w**<span class='red-b'>ould</span>
+        * **wr**<span class='green-b'>i</span>**te** - **wr**<span class='red-b'>o</span>**te**
 
 
 ## 词组
