@@ -7,42 +7,71 @@
         - be afraid ... - 害怕
     * air(六上，<span class='pink-b'>unit 2</span>) - n. 空气
     * all day(六上，<span class='pink-b'>unit 4</span>) - 整天
+    * ate(六上，unit 5) - v. 吃（eat 的过去式）
 - <span class='blue-b'>b</span> 开头
     * because(六上，<span class='pink-b'>unit 4</span>) - conj. 因为
+    * broken(六上，unit 5) - adj. 断了的
+    * brush(六上，unit 5) - v. 刷
     * <span class='v'>build</span>
         - <span class='v'>build</span>[(查词)](http://dict.hjenglish.com/w/build)-建筑;建造;构筑
         - <span class='n'>builder</span>[(查词)](http://dict.hjenglish.com/w/builder)-建筑工人;建设者
         - <span class='n'>building</span>[(查词)](http://dict.hjenglish.com/w/building)-建筑物;房屋
 - <span class='blue-b'>c</span> 开头
     * cheap(六上，<span class='pink-b'>unit 3</span>) - adj. 便宜的
+    * check-up(六上，unit 5) - n. 检查
     * city(六上，<span class='pink-b'>unit 3</span>) - 城市
     * comfortable(六上，<span class='pink-b'>unit 3</span>) - adj.舒服的
+    * could(六上，unit 5) - aux. v. 能够（can 的过去式）
     * country(六上，<span class='pink-b'>unit 1</span>) - 农村
     * countryside(六上，<span class='pink-b'>unit 4</span>) - n. 农村
     * cow(六上，<span class='pink-b'>unit 1</span>) - 奶牛；母牛
     * crowded(六上，<span class='pink-b'>unit 3</span>) - adj.拥挤的
 - <span class='blue-b'>d</span> 开头
+    * diet(六上，unit 6) - n. 节食；限食
+        - keep a good diet - 保持一个良好的饮食习惯
     * different to ...(六上，<span class='pink-b'>unit 4</span>) - 不同于......
     * dirty ...(六上，<span class='pink-b'>unit 4</span>) - adj. 脏的
+- <span class='blue-b'>e</span> 开头
+    * even(六上，unit 6) - adv. 甚至
 - <span class='blue-b'>f</span> 开头
+    * fever(六上，unit 5) - n. 发烧
+        - have a fever
     * few(六上，<span class='pink-b'>unit 1</span>) - adj. 极少；几乎没有
         - a few 几（个、条......）
     * field(六上，<span class='pink-b'>unit 1</span>) - 田
+    * finally(六上，unit 6) - adv. 最后地
+    * finger(六上，unit 5) - n. 手指
 - <span class='blue-b'>g</span> 开头
+    * gave(六上，unit 5) - v. 给（give 的过去式）
     * give(六上，<span class='pink-b'>unit 1</span>) - 给 (give sth. to sb., give sb. sth.)
     * goat(六上，<span class='pink-b'>unit 1</span>) - 山羊
     * goose(六上，<span class='pink-b'>unit 1</span>) - 鹅（复数是 geese)
     * grandparents(六上，<span class='pink-b'>unit 2</span>) - 祖父（母）；外祖父（母）
     * grass(六上，<span class='pink-b'>unit 1</span>) - 草
 - <span class='blue-b'>h</span> 开头
+    * have a cold(六上，unit 5) - 感冒
+    * headache(六上，unit 5) -- n. 头疼
+    * hear(六上，unit 5) - v. 听到（过去式是 heard）
+        - I'm sorry to hear that. 听到这个我感到很难过。
     * help...with...(六上，<span class='pink-b'>unit 2</span>) - 在......（方面）帮助
+    * health(六上，unit 5) - n. 健康
     * heavy(六上，<span class='pink-b'>unit 3</span>) - adj.拥挤的；大量的
+- <span class='blue-b'>i</span> 开头
+    * ill(六上，unit 5) - adj. 病的
+- <span class='blue-b'>l</span> 开头
+    * least(六上，unit 6) - adj. 最少（小）
+        - at least 至少
+    * less(六上，unit 6) - adj. 较少的
 - <span class='blue-b'>m</span> 开头
+    * matter(六上，unit 5) - n. 事情
+        - What's the matter? 怎么回事？
+    * medicine - n. 药
     * milk(六上，<span class='pink-b'>unit 2</span>) - v. 挤奶, n. 奶
     * modern(六上，<span class='pink-b'>unit 3</span>) - adj. 现代化的
 - <span class='blue-b'>n</span> 开头
     * noisy(六上，<span class='pink-b'>unit 3</span>) - adj.嘈杂的
 - <span class='blue-b'>o</span> 开头
+    * oily(六上，unit 6) - adj. 多油的；油腻的
     * other(六上，<span class='pink-b'>unit 1</span>) - adj. 其他的；别的, pron. 其他的（人或事）
 - <span class='blue-b'>p</span> 开头
     * pick(六上，<span class='pink-b'>unit 1</span>) - 摘
@@ -50,19 +79,30 @@
 - <span class='blue-b'>q</span> 开头
     * quiet(六上，<span class='pink-b'>unit 3</span>) -- adj. 安静的
 - <span class='blue-b'>r</span> 开头
+    * rest(六上，<span class='pink-b'>unit 5</span>) - n. 休息
+        - take a rest 休息
     * ride(六上，<span class='pink-b'>unit 2</span>) - 骑（过去式 rode)
     * river(六上，<span class='pink-b'>unit 1</span>) - 河；江
 - <span class='blue-b'>s</span> 开头
+    * secret(六上，<span class='pink-b'>unit 6</span>) - n. 秘密
     * sell(六上，<span class='pink-b'>unit 4</span>) - v.出售（过去式是 sold)
     * sheep(六上，<span class='pink-b'>unit 1</span>) - 绵羊, 复数 - sheep
+    * simple(六上，<span class='pink-b'>unit 6</span>) - adj. 简单的
     * slow(六上，<span class='pink-b'>unit 3</span>) - ajd.慢的；缓慢的
+    * smile(六上，<span class='pink-b'>unit 6</span>) - v. 微笑   n. 微笑；笑容
     * still(六上，<span class='pink-b'>unit 2</span>) - adv. 仍然
+    * stomache(六上，unit 5) - n. 胃疼
     * student(六上，<span class='pink-b'>unit 3</span>) - 学生
 - <span class='blue-b'>t</span> 开头
     * take(六上，<span class='pink-b'>unit 2</span>) - 花费（过去式是 took)
+    * take(六上，<span class='pink-b'>unit 5</span>) - v. 服（药）
     * theatre(六上，<span class='pink-b'>unit 4</span>) - n. 剧院
+    * time(六上，<span class='pink-b'>unit 5</span>) - n. 次
+    * toothache(六上，<span class='pink-b'>unit 5</span>) - n. 牙疼
+    * twice(六上，<span class='pink-b'>unit 5</span>) - num. 两次
 - <span class='blue-b'>w</span> 开头
     * wide(六上，<span class='pink-b'>unit 3</span>) - adj.宽阔的
+    * wore(六上，<span class='pink-b'>unit 5</span>) - v. 穿（wear 的过去式）
 - --------
 - 复数特殊的名词
     - <span class='blue-b'>单复同形</span>
@@ -71,6 +111,10 @@
         * child - child<span class='red-b'>ren</span>
     - <span class='blue-b'>g</span> 开头
         * g<span class='green-b'>oo</span>se(六上，<span class='pink-b'>unit 1</span>) - g<span class='red-b'>ee</span>se
+- 特殊形容词副词的原形、比较级、最高级
+    - bad - worse - worst
+    - good - better - best
+    - little - less -least
 - <span class='pink-b'>特殊过去式</span>的动词
     - 过去式<span class='blue-b'>同原形</span>
         * **cut** - <span class='yellow-b'>cut</span>
@@ -158,13 +202,20 @@
 - **六上**
     * <span class='unit'>Module 1</span>
         - <span class='prep-title'>**介词(prep.)**</span>
-            * <span class='prep'>after</span> <span class='n'>school</span>
+            * <span class='prep'>after</span> <span class='n'>school</span>(六上，unit 2)
+                - When I get home <span class='pink-b'>after school</span>, ...
             * <span class='prep'>at</span> that <span class='n'>time</span>
-            * <span class='prep'>in</span> <span class='n'>America</span>
-            * live <span class='prep'>in</span> the <span class='n'>country</span>
-            * <span class='prep'>in</span> our <span class='n'>class</span>
-            * <span class='prep'>in</span> the <span class='n'>field</span>
-            * live <span class='prep'>on</span> the <span class='n'>farm</span>, <span class='prep'>on</span> the <span class='n'>river</span>
+            * <span class='prep'>in</span> <span class='n'>America</span>(六上，unit 3)
+                - I'm from New York City <span class='pink-b'>in America</span>.
+            * live <span class='prep'>in</span> the <span class='n'>country</span>(六上，unit 2)
+                - I love <span class='pink-b'>living in the country</span>, ...
+            * <span class='prep'>in</span> our <span class='n'>class</span>(六上，unit 3)
+                - We have a new student <span class='pink-b'>in our class</span>.
+            * <span class='prep'>in</span> the <span class='n'>field</span>(六上，unit 1)
+                - There are fruit trees <span class='pink-b'>in this field</span>.
+            * live <span class='prep'>on</span> the <span class='n'>farm</span>(六上，unit 2), <span class='prep'>on</span> the <span class='n'>river</span>(六上，unit 1)
+                - ... and I <span class='pink-b'>live on a small farm</span> with my mom, dad and grandparents.
+                - I see them <span class='pink-b'>on the river</span>.
         - <span class='v-title'>**动词(v.)**</span>
             * <span class='v'>cut</span> <span class='n'>grass</span>
             * <span class='v'>feed</span> the <span class='n'>animals</span>
@@ -248,6 +299,7 @@
             * I'm sorry to hear that.
             * keep a good diet
             * <span class='v'>like</span> + <span class='n'>*doing*</span>
+                - I like living in the country.
             * miss you
             * <span class='v'>move</span> to
             * <span class='v'>play</span> <span class='adj'>all</span> <span class='n'>day</span>
