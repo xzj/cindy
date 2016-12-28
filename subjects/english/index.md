@@ -205,6 +205,8 @@
             * <span class='prep'>after</span> <span class='n'>school</span>(六上，unit 2)
                 - 例：When I get home <span class='pink-b'>after school</span>, ...
             * <span class='prep'>at</span> <span class='n'>home</span>
+                - stay at home for a whole morning
+                - stay at home all day
             * <span class='prep'>at</span> <span class='n'>night</span>
             * <span class='prep'>at</span> that <span class='n'>time</span>
             * <span class='prep'>in</span> <span class='n'>America</span>(六上，unit 3)
@@ -284,43 +286,67 @@
             * 农场生活，健康的生活，每天，大量的、充分的，许多，充分的锻炼，超过...、多过...
     * <span class='unit'>Module 2</span>
         - <span class='prep-title'>**介词(prep.)**</span>
+            * after class
             * at a rest<span class='red-b'>au</span>rant
                 - eat at a restaurant
+            * at the park
+                - play basketball at the park
+            * by train
+                - travel by train
             * for two hours
                 - stay for two hours
             * for one week
                 - take some medicine three times a day for one week
             * <span class='prep'>in</span> <span class='adj'>one's</span> free <span class='n'>time</span>
+            * in bed
+                - stay in bed
             * in the city
             * in the countryside
             * in good health = healthy
+            * in the english test
+                - do well in the english test
         - <span class='v-title'>**动词(v.)**</span>
             * ask sb. to + do sth.
                 - ask me to ...
             * be well soon
             * brush teeth twice a day
+            * carry water
             * <span class='v'>come</span> <span class='prep'>from</span><span class='font-bold'>,</span> <span class='v'>be</span> <span class='prep'>from</span>
+            * come home late
+            * come to Hong Kong
             * cut the finger
+            * dig holes
             * drink plenty of water
             * eat more vegetables and less meat
             * eat some bad food
             * eat too much candy
             * eat too much ice cream
+            * eat a little too much
             * Don't eat too much sweet or oily food.
             * feel good
             * feel ill
+            * feel better
             * fall from the bike
+            * fill sth. with sth.
+                - fill the holes with earth
+            * finish the work
             * get sth. as sth.
                 - get a storybook as a present
             * give me a check-up
+            * go shopping with + sb.
+                - go shopping with my mother
             * <span class='v'>go</span> to <span class='adj'>different</span> <span class='n'>shows</span>
             * go to the hospital
             * go to the countryside
+            * grow well
             * <span class='v'>have</span> <span class='adj'>no</span> <span class='n'>time</span> to <span class='v'>*do*</span> <span class='n'>*sth.*</span>
                 - 注意：no = not any
+            * help others
+            * hurt the leg
             * I'm sorry to hear that.
             * keep a good diet
             * keep fit
+            * learn from ..
             * <span class='v'>like</span> + <span class='n'>*doing*</span>
                 - I like living in the country.
             * meet my friends
@@ -329,21 +355,44 @@
                 - play with the knife
             * play computer games too much
             * play basketball
+            * play games
+                - play lots of different games
+            * put ... into sth.
+                - put the young tree into the hole
             * run too fast
             * see a doctor
             * see a film
+            * sing a song
+            * sit with ...
+                - sit with me
             * take a rest
             * take plenty of exercise
             * take the medicine
+            * take photos with ...
+                - take a photo with Mickey Mouse and Donald Duck
+            * take us to + 地方
+            * talk about ...
+                - talk about our trip
             * <span class='v'>visit</span> a <span class='n'>museum</span>
             * walk for one hour
             * wash your hands before you eat
+            * water the trees
             * wear wet clothes
             * What's the matter with you?
             * worry too much
         - <span class='n-title'>**名词(n.)**</span>
+            * all the pupils of our class
             * different things
+            * Children's Day
+            * Chinese Tree Planting Day
+            * clean my room
+            * the next day
+            * write a diary
             * each night
+            * the first visit to + 地方
+                - the first visit to the island
+            * go on a trip to + 地方
+                - go on a trip to Hong Kong
             * have a stomachache
             * have a toothache
             * have a headache
@@ -354,8 +403,15 @@
                 - have a smile on his face
             * have a party
                 - have a party with my friends
+            * have lunch together
+            * do my homework
+            * last night
+            * last month
+            * last year
+            * last weekend
+            * last Saturday
             * a pair of shoes
-                - buy a new pair of sports shoes
+                - buy a new pair of sport shoes
             * plenty of sleep
                 - get plenty of sleep
             * read a storybook
@@ -363,14 +419,18 @@
                 - the secret to good health
             * things to stay health
                 - do some simple things to stay healthy
-            * the most important thing for + sth.
+            * the most important thing for ...
                 - the most important thing for a healthy life
             * three times a day
+            * yesterday morning
         - <span class='adj-title'>**形容词(adj.)**</span>
             * at least
             * be careful
             * so much fun
+                - It was so much fun.
             * <span class='adj'>each</span> <span class='n'>other</span>
+            * no/not at all
+                - It was no fun at all.
             * <span class='adv'>too</span> <span class='adj'>many</span> cars
             * too much sweet
     * <span class='unit'>Module 3</span>
