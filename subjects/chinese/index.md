@@ -1,5 +1,7 @@
 {% include nav.html %}
 {% include math-color.md %}
+[六上期末复习](./exam-6-1st)
+
 ## 课本生字
 - 六上
     * <span class='pink-b'>unit 1</span>
