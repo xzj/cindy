@@ -67,7 +67,7 @@
         - What's the matter? 怎么回事？
     * medicine - n. 药
     * milk(六上，<span class='pink-b'>unit 2</span>) - v. 挤奶, n. 奶
-    * modern(六上，<span class='pink-b'>unit 3</span>) - adj. 现代化的
+    * m<span class='red-b'>o</span>dern(六上，<span class='pink-b'>unit 3</span>) - adj. 现代化的
 - <span class='blue-b'>n</span> 开头
     * noisy(六上，<span class='pink-b'>unit 3</span>) - adj.嘈杂的
 - <span class='blue-b'>o</span> 开头
@@ -91,7 +91,7 @@
     * slow(六上，<span class='pink-b'>unit 3</span>) - ajd.慢的；缓慢的
     * smile(六上，<span class='pink-b'>unit 6</span>) - v. 微笑   n. 微笑；笑容
     * still(六上，<span class='pink-b'>unit 2</span>) - adv. 仍然
-    * stomache(六上，unit 5) - n. 胃疼
+    * stomachache(六上，unit 5) - n. 胃疼
     * student(六上，<span class='pink-b'>unit 3</span>) - 学生
 - <span class='blue-b'>t</span> 开头
     * take(六上，<span class='pink-b'>unit 2</span>) - 花费（过去式是 took)
@@ -203,29 +203,35 @@
     * <span class='unit'>Module 1</span>
         - <span class='prep-title'>**介词(prep.)**</span>
             * <span class='prep'>after</span> <span class='n'>school</span>(六上，unit 2)
-                - When I get home <span class='pink-b'>after school</span>, ...
+                - 例：When I get home <span class='pink-b'>after school</span>, ...
+            * <span class='prep'>at</span> <span class='n'>home</span>
+            * <span class='prep'>at</span> <span class='n'>night</span>
             * <span class='prep'>at</span> that <span class='n'>time</span>
             * <span class='prep'>in</span> <span class='n'>America</span>(六上，unit 3)
-                - I'm from New York City <span class='pink-b'>in America</span>.
+                - 例：I'm from New York City <span class='pink-b'>in America</span>.
             * live <span class='prep'>in</span> the <span class='n'>country</span>(六上，unit 2)
-                - I love <span class='pink-b'>living in the country</span>, ...
+                - 例：I love <span class='pink-b'>living in the country</span>, ...
             * <span class='prep'>in</span> our <span class='n'>class</span>(六上，unit 3)
-                - We have a new student <span class='pink-b'>in our class</span>.
+                - 例：We have a new student <span class='pink-b'>in our class</span>.
             * <span class='prep'>in</span> the <span class='n'>field</span>(六上，unit 1)
-                - There are fruit trees <span class='pink-b'>in this field</span>.
+                - 例：There are fruit trees <span class='pink-b'>in this field</span>.
             * live <span class='prep'>on</span> the <span class='n'>farm</span>(六上，unit 2), <span class='prep'>on</span> the <span class='n'>river</span>(六上，unit 1)
+                - 例子： 
                 - ... and I <span class='pink-b'>live on a small farm</span> with my mom, dad and grandparents.
                 - I see them <span class='pink-b'>on the river</span>.
         - <span class='v-title'>**动词(v.)**</span>
+            * <span class='v'>was</span>/<span class='v'>were</span> <span class='adj'>born</span> - 原型应该是 <span class='v'>be</span> + <span class='adj'>born</span>，但最常用的是 <span class='n'>sb.</span> + <span class='v'>was</span>/<span class='v'>were</span> + <span class='adj'>born</span>，表示<span class='n'>某人或动物</span><span class='v'>出生</span>在什么时候，或什么地方。
             * <span class='v'>cut</span> <span class='n'>grass</span>
             * <span class='v'>feed</span> the <span class='n'>animals</span>
             * <span class='v'>feel</span> <span class='adj'>tired</span>
             * <span class='v'>finish</span> <span class='adj'>my</span> <span class='n'>homework</span>
             * <span class='v'>get</span> <span class='n'>home</span>
-            * <span class='v'>grow</span> <span class='n'>flowers</span> and <span class='n'>vegetables</span>, <span class='v'>plant</span> <span class='n'>trees</span>
-            * 注意上面 <span class='v'>grow</span> 和 <span class='v'>plant</span> 的区别，两个都可以翻译成“种”
+            * <span class='v'>get</span> <span class='adv'>back</span> <span class='n'>home</span>
             * <span class='v'>give</span> <span class='n'>something</span> <span class='prep'>to</span> <span class='n'>somebody</span>, <span class='v'>give</span> <span class='n'>somebody</span> <span class='n'>something</span>
                 - <span class='v'>give</span> grass <span class='prep'>to</span> the cows and sheep
+            * <span class='v'>go</span> to <span class='v'>sleep</span>
+            * <span class='v'>grow</span> <span class='n'>flowers</span> and <span class='n'>vegetables</span>, <span class='v'>plant</span> <span class='n'>trees</span>
+                - 注意上面 <span class='v'>grow</span> 和 <span class='v'>plant</span> 的区别，两个都可以翻译成“种”
             * <span class='v'>help</span> <span class='n'>somebody</span> <span class='prep'>with</span> <span class='n'>something</span>, <span class='v'>help</span> <span class='n'>somebody</span> <span class='v'>do</span> <span class='n'>something</span>
                 - <span class='v'>help</span> my parents <span class='prep'>with</span> housework
                 - <span class='v'>help</span> grandparents <span class='v'>do</span> farm work
@@ -233,19 +239,28 @@
             * <span class='v'>like</span> <span class='n'>living</span> <span class='prep'>in</span> <span class='adj'>our</span> <span class='n'>city</span>
             * <span class='v'>look</span> <span class='adv'>lovely</span>
             * <span class='v'>milk</span> the <span class='n'>cow</span>
+            * miss you
             * <span class='v'>pick</span> some apples or oranges <span class='prep'>from</span> the tree
+            * <span class='v'>play</span> <span class='adj'>all</span> <span class='n'>day</span>
             * <span class='v'>ride</span> a bike <span class='prep'>to</span> school
             * <span class='v'>thanks</span> <span class='prep'>for</span> ...
                 - <span class='v'>thanks</span> <span class='prep'>for</span> your <span class='n'>help</span>
             * <span class='v'>use</span> <span class='n'>something</span> <span class='prep'>as[(查词)](http://dict.hjenglish.com/w/as)</span> <span class='n'>something</span>, 把...当作...
+            * can't <span class='v'>wait</span> to + <span class='v'>*do*</span>
             * <span class='v'>wake</span> <span class='adv'>up[(查词)](http://dict.hjenglish.com/w/up)</span>
         - <span class='n-title'>**名词(n.)**</span>
             * <span class='adj'>clean</span> <span class='n'>air</span>
+            * beautiful <span class='n'>m</span><span class='red-b'>o</span><span class='n'>dern</span> <span class='n'>buildings</span>
             * <span class='adj'>tall</span> and <span class='adj'>new</span> <span class='n'>buildings</span>
             * <span class='adj'>clean</span> and <span class='adj'>comfortable</span> <span class='n'>hotel</span>
             * <span class='n'>farm</span> <span class='n'>work</span>
             * <span class='adj'>fresh</span> <span class='n'>food</span>
             * <span class='n'>fruit</span> <span class='n'>trees</span>
+            * an expensive house
+            * a <span class='n'>country</span> <span class='n'>life</span>
+            * a <span class='adj'>healthy</span> <span class='n'>life</span>
+            * a <span class='adj'>quiet</span> <span class='n'>park</span>
+            * a noisy <span class='n'>rest</span><span class='red-b'>au</span><span class='n'>rant</span>
             * a <span class='adj'>big</span> and <span class='adj'>modern</span> <span class='n'>school</span>
             * <span class='adj'>wide</span> but <span class='adj'>crowded</span> <span class='n'>streets</span>
             * <span class='adj'>large</span> and <span class='adj'>clean</span> <span class='n'>supermarket</span>
@@ -254,11 +269,13 @@
             * <span class='adj'>much</span> <span class='n'>work</span> <span class='prep'>to</span> <span class='v'>do</span>
                 - <span class='adj'>many</span> <span class='n'>books</span> <span class='prep'>to</span> <span class='v'>read</span>
         - <span class='adj-title'>**形容词(adj.)**</span>
-            * a <span class='adj'>country</span> <span class='n'>life</span>
-            * a <span class='adj'>healthy</span> <span class='n'>life</span>
+            * <span class='v'>be</span> <span class='adj'>afraid</span> to + <span class='v'>*do*</span>
+            * <span class='v'>be</span> <span class='adj'>different</span> <span class='prep'>from</span> <span class='n'>*sth.*</span>
+            * different to ...
             * <span class='adj'>every</span> <span class='n'>day</span>
             * <span class='adj'>plenty of</span>, <spa class='adj'>lots of</spa>
                 - <span class='adj'>plenty of</span> <span class='n'>exercise</span>
+            * <span class='adv'>much</span> <span class='adj'>more</span>.
             * <span class='adj'>more</span> <span class='prep'>than</span> ...
         - 中文
             * 放学后，在那时候，在美国，住在乡村，在我们班上，在田/地里，住在农场，在河面上
@@ -267,58 +284,66 @@
             * 农场生活，健康的生活，每天，大量的、充分的，许多，充分的锻炼，超过...、多过...
     * <span class='unit'>Module 2</span>
         - <span class='prep-title'>**介词(prep.)**</span>
-            * at home
-            * <span class='prep'>at</span> <span class='n'>night</span>
+            * at a rest<span class='red-b'>au</span>rant
+                - eat at a restaurant
             * for two hours
+                - stay for two hours
             * for one week
+                - take some medicine three times a day for one week
             * <span class='prep'>in</span> <span class='adj'>one's</span> free <span class='n'>time</span>
             * in the city
             * in the countryside
             * in good health = healthy
         - <span class='v-title'>**动词(v.)**</span>
-            * ask sb. to do sth.
-            * <span class='v'>be</span> <span class='adj'>afraid</span> to + <span class='v'>*do*</span>
+            * ask sb. to + do sth.
+                - ask me to ...
             * be well soon
             * brush teeth twice a day
-            * <span class='v'>was</span>/<span class='v'>were</span> <span class='adj'>born</span> - 原型应该是 <span class='v'>be</span> + <span class='adj'>born</span>，但最常用的是 <span class='n'>sb.</span> + <span class='v'>was</span>/<span class='v'>were</span> + <span class='adj'>born</span>，表示<span class='n'>某人或动物</span><span class='v'>出生</span>在什么时候，或什么地方。
-            * can't <span class='v'>wait</span> to + <span class='v'>*do*</span>
             * <span class='v'>come</span> <span class='prep'>from</span><span class='font-bold'>,</span> <span class='v'>be</span> <span class='prep'>from</span>
+            * cut the finger
             * drink plenty of water
+            * eat more vegetables and less meat
             * eat some bad food
             * eat too much candy
             * eat too much ice cream
+            * Don't eat too much sweet or oily food.
             * feel good
             * feel ill
             * fall from the bike
-            * <span class='v'>get</span> <span class='adv'>back</span> <span class='n'>home</span>
+            * get sth. as sth.
+                - get a storybook as a present
             * give me a check-up
             * <span class='v'>go</span> to <span class='adj'>different</span> <span class='n'>shows</span>
-            * <span class='v'>go</span> to <span class='v'>sleep</span>
+            * go to the hospital
+            * go to the countryside
             * <span class='v'>have</span> <span class='adj'>no</span> <span class='n'>time</span> to <span class='v'>*do*</span> <span class='n'>*sth.*</span>
                 - 注意：no = not any
             * I'm sorry to hear that.
             * keep a good diet
+            * keep fit
             * <span class='v'>like</span> + <span class='n'>*doing*</span>
                 - I like living in the country.
-            * miss you
+            * meet my friends
             * <span class='v'>move</span> to
-            * <span class='v'>play</span> <span class='adj'>all</span> <span class='n'>day</span>
+            * play with + sth.
+                - play with the knife
+            * play computer games too much
+            * play basketball
+            * run too fast
             * see a doctor
-            * should be careful
+            * see a film
             * take a rest
             * take plenty of exercise
             * take the medicine
             * <span class='v'>visit</span> a <span class='n'>museum</span>
             * walk for one hour
+            * wash your hands before you eat
             * wear wet clothes
             * What's the matter with you?
             * worry too much
         - <span class='n-title'>**名词(n.)**</span>
-            * an expensive house
-            * a noisy restaurant
-            * a quiet park
-            * beautiful modern buildings
             * different things
+            * each night
             * have a stomachache
             * have a toothache
             * have a headache
@@ -326,18 +351,28 @@
             * have a fever
             * have a broken finger
             * have a smile on the face
+                - have a smile on his face
+            * have a party
+                - have a party with my friends
+            * a pair of shoes
+                - buy a new pair of sports shoes
             * plenty of sleep
-            * the most important thing for ...
-            * the secret to good health
+                - get plenty of sleep
+            * read a storybook
+            * the secret to ...
+                - the secret to good health
             * things to stay health
+                - do some simple things to stay healthy
+            * the most important thing for + sth.
+                - the most important thing for a healthy life
             * three times a day
-            * too much sweet
         - <span class='adj-title'>**形容词(adj.)**</span>
+            * at least
+            * be careful
+            * so much fun
             * <span class='adj'>each</span> <span class='n'>other</span>
-            * <span class='v'>be</span> <span class='adj'>different</span> <span class='prep'>from</span> <span class='n'>*sth.*</span>
-            * different to ...
-            * <span class='adv'>much</span> <span class='adj'>more</span>.
             * <span class='adv'>too</span> <span class='adj'>many</span> cars
+            * too much sweet
     * <span class='unit'>Module 3</span>
 
 ## 作文
