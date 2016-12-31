@@ -49,3 +49,85 @@
         - 但<span class='blue-b'>存</span><span class='pink-b'>方寸</span>地，<span class='blue-b'>留</span>与<span class='pink-b'>子孙</span>耕。
         - <span class='pink-b'>有限</span>的<span class='green-b'>资源</span>，<span class='pink-b'>无限</span>的<span class='green-b'>循环</span>。
         - <span class='blue-b'>珍惜</span>自然<span class='pink-b'>资源</span>，<span class='blue-b'>共营</span>生命<span class='pink-b'>绿色</span>。
+- **第五单元**
+    1. <span class='pink-b'>文学常识</span>
+        - **鲁迅**
+            * 原名 <span class='yellow-b'>周树人</span> ，字豫才， <span class='blue-b'>浙江绍兴</span> 人。
+            * <span class='orange-b'>1918</span>年<span class='orange-b'>5</span>月发表<span class='green-b'>中国现代文学史</span>上第<span class='orange-b'>一</span>篇<span class='orange-b'>白话小说</span> 《<span class='red-b'>狂人日记</span>》。
+            * 他的主要作品有<span class='blue-b'>小说</span> 集《<span class='blue-b'>呐喊</span>》 、《<span class='blue-b'>彷徨</span>》，《<span class='blue-b'>故事新编</span>》，<span class='yellow-b'>散文</span>集《<span class='yellow-b'>朝花夕拾</span>》，<span class='green-b'>散文诗</span>集《<span class='green-b'>野草</span>》，<span class='orange-b'>杂文</span>集《<span class='orange-b'>坟</span>》《<span class='orange-b'>热风</span>》《<span class='orange-b'>华盖集</span>》。课文《少年闰土》选自小说 《<span class='red-b'>故乡</span>》。
+            * 鲁迅以<span class='pink-b'>笔</span>为武器中，战斗了一生，被誉为“<span class='red-b'>民族魂</span>”。毛泽东评价鲁迅先生是伟大的<span class='yellow-b'>文学家</span>、<span class='yellow-b'>思想家</span>和<span class='yellow-b'>革命家</span>，是中国文化革命的<span class='orange-b'>主将</span>。
+    2. 背第<span class='pink-b'>17</span>课第<span class='yellow-b'>1</span>自然段、<span class='yellow-b'>14</span>——<span class='yellow-b'>16</span>自然段
+    3. <span class='pink-b'>日积月累</span> - 鲁迅先生的名言警句。
+        - <span class='red-b'>横眉冷对千夫指</span>，<span class='red-b'>俯首甘为孺子牛</span>。《<span class='red-b'>自嘲</span>》
+        - <span class='pink-b'>我</span>好像一只<span class='blue-b'>牛</span>，<span class='yellow-b'>吃</span>的是<span class='green-b'>草</span>，<span class='yellow-b'>挤</span>出来的是<span class='green-b'>奶</span>、<span class='green-b'>血</span>。<span class='orange-b'>许广平</span>《<span class='red-b'>欣慰的纪念</span>》
+        - <span class='blue-b'>时间</span>就是<span class='pink-b'>性命</span>，<span class='pink-b'>无端</span>的<span class='orange-b'>空耗</span><span class='green-b'>别人</span>时间，其实是<span class='yellow-b'>无异</span>于<span class='orange-b'>谋财害命</span>。《<span class='red-b'>门外文谈</span>》
+        - <span class='pink-b'>只看</span><span class='blue-b'>一个人</span>的著作，<span class='blue-b'>结果</span>是<span class='pink-b'>不大好</span>的：你就<span class='pink-b'>得不到</span><span class='blue-b'>多方面</span>的优点。<span class='yellow-b'>必须</span><span class='pink-b'>如蜜蜂</span>一样，<span class='yellow-b'>采过</span><span class='green-b'>许多</span>花，这<span class='yellow-b'>才能</span><span class='pink-b'>醉</span>出<span class='blue-b'>蜜</span>来。倘若<span class='pink-b'>叮</span>在<span class='green-b'>一处</span>，<span class='yellow-b'>所得</span>就非常<span class='orange-b'>有限</span>，<span class='orange-b'>枯燥</span>了。《<span class='red-b'>致颜黎民</span>》
+- **第六单元**
+    1. <span class='pink-b'>文学常识</span>
+        - 《诗经·采薇》选自我国<span class='red-b'>最早</span>的<span class='red-b'>诗歌总集</span>《<span class='red-b'>诗经</span>》。
+        - 《<span class='blue-b'>太阳的话</span>》是中国作家<span class='pink-b'>艾青</span>所作，《<span class='blue-b'>白桦</span>》都是<span class='pink-b'>现代抒情诗</span>，是<span class='green-b'>俄国</span>作家<span class='yellow-b'>叶赛宁</span>所作。
+        - 小明是个顽皮的孩子，还不知道学习的重要性，我们一般会用《<span class='pink-b'>汉乐府·长歌行</span>》中的诗句“<span class='blue-b'>少壮不努力</span>，<span class='blue-b'>老大徒伤悲</span>”来鼓励他。
+        - 期末老师写评语时，老师会祝我们来年：“<span class='blue-b'>更上一层楼</span>”。
+        - 《<span class='pink-b'>天净沙·秋</span>》是<span class='blue-b'>元</span>代<span class='yellow-b'>散曲家</span><span class='green-b'>白朴</span>描写<span class='blue-b'>秋景</span>的一首<span class='orange-b'>小令</span>。小令原来是流行于民间的<span class='blue-b'>小曲</span>，句子长短不齐，有一定的腔调。
+        - 《<span class='pink-b'>西江月·夜行黄沙道中</span>》是<span class='blue-b'>宋</span>代<span class='yellow-b'>辛弃疾</span>的一首吟咏<span class='green-b'>田园风光</span>的<span class='yellow-b'>词</span>。流露出诗人对丰收之年的<span class='blue-b'>喜悦</span>和对农村生活的<span class='pink-b'>热爱</span>。
+    2. 诗海拾贝
+        - 《<span class='pink-b'>诗经</span>·采薇$$\color{green-c}w\bar{e}i$$》（节选）
+            * 昔我往矣$$\color{green-c}y\breve{i}$$，杨柳依依；
+            * 今我来思，雨雪霏$$\color{green-c}f\bar{e}i$$霏。
+        - 《春夜喜雨》［<span class='pink-b'>唐</span>］<span class='blue-b'>杜甫</span>
+            * 好雨知时节，当春乃发生。
+            * 随风潜入夜，润物细无声。
+            * 野径云俱黑，江船火独明。
+            * 晓看红湿处，花重锦官城。
+        - 《西江月 夜行黄沙道中》［<span class='pink-b'>宋</span>］<span class='blue-b'>辛弃疾</span>
+            * 明月别枝惊鹊，清风半夜鸣蝉。
+            * 稻花香里说丰年，听取蛙声一片。　
+            * 七八个星天外，两三点雨山前。
+            * 旧时茅店社林边，路转溪桥忽见。
+        - 《天净沙.秋》［<span class='pink-b'>元</span>］<span class='blue-b'>白朴</span>
+            * 孤村落日残霞，轻烟老树寒鸦，一点飞鸿影下。
+            * 青山绿水，白草红叶黄花。
+        - 《天净沙·秋思》被称为“<span class='orange-b'>秋思之祖</span>”。作者：［<span class='pink-b'>元</span>］<span class='blue-b'>马致远</span>
+            * 枯藤老树昏鸦。
+            * 小桥流水人家。
+            * 古道西风瘦马。
+            * 夕阳西下，断肠人在天涯。
+    3. 其它有关<span class='yellow-b'>秋天</span>的古诗：
+        - 《子夜吴歌.秋歌》［唐］李白
+            * 长安一片月，万户捣衣声。
+            * 秋风吹不尽，总是玉关情。
+            * 何日平胡虏，良人罢远征？
+        - 《山居秋暝》［唐］王维
+            * 空山新雨后，天气晚来秋。
+            * 明月松间照，清泉石上流。
+            * 竹喧归浣女，莲动下渔舟。
+            * 随意春芳歇，王孙自可留。
+        - 《寻陆鸿渐不遇 》［南宋］僧皎然
+            * 移家虽带郭，野径入桑麻。
+            * 近种篱边菊，秋来未著花。
+            * 扣门无犬吠，欲去问西家。
+            * 报道山中去，归来每日斜。
+        - 《送李少府贬峡中王少府贬长沙 》［唐］高适
+            * 嗟君此别意何如？驻马衔杯问谪居。
+            * 巫峡啼猿数行泪，衡阳归雁几封书。
+            * 青枫江上秋帆远，白帝城边古木疏。
+            * 圣代即今多雨露，暂时分手莫踌躇。
+        - 《秋思》［唐］张籍
+            * 洛阳城里见秋风，欲作家书意万重。
+            * 复恐匆匆说不尽，行人临发又开封。
+        - 《逢人入京使》［唐］岑参
+            * 故园东望路漫漫，双袖龙锺泪不干。
+            * 马上相逢无纸笔，凭君传语报平安。
+- **第七单元**
+    1. 《马诗》［<span class='pink-b'>唐</span>］<span class='blue-b'>李贺</span>
+        - 大漠沙如雪，燕山月似钩。
+        - 何当金络脑，快走踏清秋。
+    2. 擅长写动物文学的作家、写了很多著名的作品。如：中国作家<span class='blue-b'>沈石溪</span>的《<span class='pink-b'>第七条猎狗</span>》《<span class='pink-b'>狼王梦</span>》，<span class='yellow-b'>加拿大</span>作家<span class='blue-b'>西顿</span>的《<span class='pink-b'>小战马</span>》《<span class='pink-b'>红脖子</span>》，<span class='yellow-b'>美国</span>作家<span class='blue-b'>杰克·伦敦</span>的《<span class='pink-b'>荒野的呼唤</span>》《<span class='pink-b'>海狼</span>》，<span class='yellow-b'>日本</span>作家<span class='blue-b'>椋$$\color{green-c}(li\acute{a}ng)$$鸠$$\color{green-c}(ji\bar{u})$$十</span>的《<span class='pink-b'>孤岛野犬</span>》。
+- **第八单元**
+    1. <span class='pink-b'>文学常识</span>
+        - <span class='red-b'>知音</span>，理解自己心意、有共同语言的人。
+        - <span class='blue-b'>俞伯牙</span>，<span class='blue-b'>钟子期</span>相传为 <span class='pink-b'>春秋时代</span>人，关于它们二人成为知音的传说,《<span class='yellow-b'>列子</span>》《<span class='yellow-b'>吕氏春秋</span>》等古书均有记载，也流传于 民间  。由于这个传说人们把真正了解自己的人叫做知音，用<span class='blue-b'>高山流水</span> 比喻<span class='pink-b'>知音难觅或乐曲高妙</span>。
+        - <span class='blue-b'>贝多芬</span>是 <span class='green-b'>德国</span> <span class='pink-b'>最伟大</span>的<span class='yellow-b'>音乐家</span>之一，对世界音乐的发展有着<span class='pink-b'>举足轻重</span> 的作用，被尊称为 <span class='red-b'>乐圣</span>。一生创作了许多不朽的作品，如《<span class='blue-b'>英雄</span>》《<span class='blue-b'>命运</span>》《<span class='blue-b'>田园</span>》《<span class='blue-b'>合唱</span>》
+        - 《我的舞台》本文是我国著名的<span class='blue-b'>编剧</span>、<span class='blue-b'>导演</span>、<span class='blue-b'>作家</span><span class='yellow-b'>吴祖光</span>先生与著名<span class='blue-b'>评剧</span>演员<span class='yellow-b'>新凤霞</span>的女儿──吴霜女士（即文中的“霜霜”）的一篇回忆录。
+    2. 伯牙/善/鼓琴，钟子期/善听。伯牙鼓琴，志在高山，钟子期曰：“善哉，峨峨兮/若/泰山！”志在流水，钟子期曰：“善哉，洋洋兮/若/江河！”伯牙/所念，钟子期/必得之。子期死，伯牙/谓/世/再无知音，乃/破琴/绝弦，终身/不复鼓。
+    3. 皮鞋匠静静地听着。他好像面对着大海，月光正从水天相接的地方升起来。微波粼粼的海面上，霎时间洒满了银光。月亮越升越高，穿过一缕一缕轻纱似的微云。忽然，海面上刮起了大风，卷起了巨浪。被月光照得雪亮的浪花，一个连一个朝着岸边涌过来……皮鞋匠看看妹妹，月光正照在她那恬静的脸上，照着她睁得大大的眼睛，她仿佛也看到了，看到了她从来没有看到过的景象，月光照耀下的波涛汹涌的大海。

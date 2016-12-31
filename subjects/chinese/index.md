@@ -13,6 +13,7 @@
         - 津$${\color{green-c}(j}{\color{red-c}īn}{\color{green-c})}$$[查字典](http://www.zdic.net/z/1c/js/6D25.htm) -- 天<span class='yellow-b'>津</span>
         - 蕴$$\color{green-c}(y\grave{u}n)$$[查字典](http://www.zdic.net/z/23/js/8574.htm) -- <span class='yellow-b'>蕴</span>含
         - 侠$$\color{green-c}(xi\acute{a})$$[查字典](http://www.zdic.net/z/15/js/4FA0.htm)
+        - 栀（zhī）子花
         - <span class='red-b'>汩</span>$$\color{green-c}(g\breve{u})$$[查字典](http://www.zdic.net/z/1c/js/6C69.htm) -- <span class='yellow-b'>汩汩</span>
         - 嗅$$\color{green-c}(xi\grave{u})$$[查字典](http://www.zdic.net/z/16/js/55C5.htm) -- <span class='yellow-b'>嗅</span>觉
         - 犬$$\color{green-c}(qu\breve{a}n)$$[查字典](http://www.zdic.net/z/1e/js/72AC.htm)
