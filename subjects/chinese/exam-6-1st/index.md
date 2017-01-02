@@ -1,4 +1,4 @@
-{% include nav.html %}
+{% include nav.html root-path="../../../" %}
 {% include math-color.md %}
 
 # 必背内容

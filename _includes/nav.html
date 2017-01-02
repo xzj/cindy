@@ -1,8 +1,13 @@
+{% if include.root-path %}
+    {% assign root-path = {{include.root-path}} %}
+{% else %}
+    {% assign root-path = "../../" %}
+{% endif %}
 <nav>
     <ul>
-        <li><a class='color-green' href="../../">首页</a></li>
-        <li><a class='color-green' href="../../subjects/english">英语</a></li>
-        <li><a class='color-green' href="../../subjects/math">数学</a></li>
-        <li><a class='color-green' href="../../subjects/chinese">语文</a></li>
+        <li><a class='color-green' href="{{root-path}}">首页</a></li>
+        <li><a class='color-green' href="{{root-path}}subjects/english">英语</a></li>
+        <li><a class='color-green' href="{{root-path}}subjects/math">数学</a></li>
+        <li><a class='color-green' href="{{root-path}}subjects/chinese">语文</a></li>
     </ul>
 </nav>
