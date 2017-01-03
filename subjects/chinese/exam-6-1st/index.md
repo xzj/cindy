@@ -116,7 +116,7 @@
         - 《秋思》［唐］张籍
             * 洛阳城里见秋风，欲作家书意万重。
             * 复恐匆匆说不尽，行人临发又开封。
-        - 《逢入京使》［唐］岑$$\color{green-c}(c\acute{e}n)$$参
+        - 《逢入京使》［唐］岑$$\color{green-c}(c\acute{e}n)$$参$$\color{green-c}(sh\bar{e}n)$$
             * 故园东望路漫漫，双袖龙钟泪不干。
             * 马上相逢无纸笔，凭君传语报平安。
 - **第七单元**
@@ -137,3 +137,174 @@
         - 古色古香、余音绕梁、不落窠$$\color{green-c}(k\bar{e})$$臼$$\color{green-c}(ji\grave{u})$$、雅俗共赏
         - 美不胜收、脍炙人口、曲高和寡、妙笔生花
         - 阳春白雪、笔走龙蛇、不同凡响、别具一格
+
+# 多音字
+- <span class='pink-b'>传</span> [查字典](http://www.zdic.net/z/15/js/4F20.htm)
+    * $$\color{green-c}zhu\grave{a}n$$ -- 水浒<span class='yellow-b'>传</span>
+    * $$\color{green-c}chuán$$ -- <span class='yellow-b'>传</span>来
+- <span class='pink-b'>朝</span> [查字典](http://www.zdic.net/z/1b/js/671D.htm)
+    * $$\color{green-c}zhāo$$ -- <span class='yellow-b'>朝</span>阳
+    * $$\color{green-c}cháo$$ -- <span class='yellow-b'>朝</span>向，<span class='yellow-b'>朝</span>廷
+- <span class='pink-b'>哈</span> [查字典](http://www.zdic.net/z/16/js/54C8.htm)
+    * $$\color{green-c}hā$$ -- 嘻嘻<span class='yellow-b'>哈哈</span>
+    * $$\color{green-c}hǎ$$ -- <span class='yellow-b'>哈</span>达
+- <span class='pink-b'>纤</span> [查字典](http://www.zdic.net/z/21/js/7EA4.htm)
+    * $$\color{green-c}xiān$$ -- <span class='yellow-b'>纤</span>维
+    * $$\color{green-c}qiàn$$ -- <span class='yellow-b'>纤</span>夫
+- <span class='pink-b'>闷</span> [查字典](http://www.zdic.net/z/27/js/95F7.htm)
+    * $$\color{green-c}mèn$$ -- 沉<span class='yellow-b'>闷</span>
+    * $$\color{green-c}mēn$$ -- <span class='yellow-b'>闷</span>热
+- <span class='pink-b'>似</span> [查字典](http://www.zdic.net/z/15/js/4F3C.htm)
+    * $$\color{green-c}shì$$ -- <span class='yellow-b'>似</span>的
+    * $$\color{green-c}sì$$ -- 好<span class='yellow-b'>似</span>
+- <span class='pink-b'>缝</span> [查字典](http://www.zdic.net/z/21/js/7F1D.htm)
+    * $$\color{green-c}féng$$ -- <span class='yellow-b'>缝</span>补
+    * $$\color{green-c}fèng$$ -- <span class='yellow-b'>缝</span>隙
+- <span class='pink-b'>差</span> [查字典](http://www.zdic.net/z/19/js/5DEE.htm)
+    * $$\color{green-c}chāi$$ -- 出<span class='yellow-b'>差</span>
+    * $$\color{green-c}chā$$ -- <span class='yellow-b'>差</span>别，<span class='yellow-b'>差</span>距
+    * $$\color{green-c}ch\grave{a}$$ -- <span class='yellow-b'>差</span>不多，<span class='yellow-b'>差</span>等，成绩<span class='yellow-b'>差</span>，还<span class='yellow-b'>差</span>十元钱
+    * $$\color{green-c}cī$$ -- 参$$\color{green-c}(c\bar{e}n)$$<span class='yellow-b'>差</span>
+- <span class='pink-b'>兴</span> [查字典](http://www.zdic.net/z/15/js/5174.htm)
+    * $$\color{green-c}xīng$$ -- <span class='yellow-b'>兴</span>奋
+    * $$\color{green-c}xìng$$ -- 高<span class='yellow-b'>兴</span>
+- <span class='pink-b'>尽</span> [查字典](http://www.zdic.net/z/18/js/5C3D.htm)
+    * $$\color{green-c}jǐn$$ -- <span class='yellow-b'>尽</span>管
+    * $$\color{green-c}jìn$$ -- <span class='yellow-b'>尽</span>力
+- <span class='pink-b'>冲</span> [查字典](http://www.zdic.net/z/15/js/51B2.htm)
+    * $$\color{green-c}chōng$$ -- <span class='yellow-b'>冲</span>锋
+    * $$\color{green-c}chòng$$ -- <span class='yellow-b'>冲</span>床，<span class='yellow-b'>冲</span>我来
+- <span class='pink-b'>着</span> [查字典](http://www.zdic.net/z/1f/js/7740.htm)
+    * $$\color{green-c}zhe$$ -- 望<span class='yellow-b'>着</span>
+    * $$\color{green-c}zháo$$ -- <span class='yellow-b'>着</span>迷，<span class='yellow-b'>着</span>忙
+    * $$\color{green-c}zhu\acute{o}$$ -- <span class='yellow-b'>着</span>装，<span class='yellow-b'>着</span>陆
+- <span class='pink-b'>扁</span> [查字典](http://www.zdic.net/z/1a/js/6241.htm)
+    * $$\color{green-c}piān$$ -- 一叶<span class='yellow-b'>扁</span>舟
+    * $$\color{green-c}biǎn$$ -- <span class='yellow-b'>扁</span>平
+- <span class='pink-b'>供</span> [查字典](http://www.zdic.net/z/15/js/4F9B.htm)
+    * $$\color{green-c}gōng$$ -- <span class='yellow-b'>供</span>品
+    * $$\color{green-c}gòng$$ -- 提<span class='yellow-b'>供</span>
+- <span class='pink-b'>难</span> [查字典](http://www.zdic.net/z/27/js/96BE.htm)
+    * $$\color{green-c}nán$$ -- 困<span class='yellow-b'>难</span>
+    * $$\color{green-c}nàn$$ -- 灾<span class='yellow-b'>难</span>
+- <span class='pink-b'>数</span> [查字典](http://www.zdic.net/z/1a/js/6570.htm)
+    * $$\color{green-c}shù$$ -- 无<span class='yellow-b'>数</span>
+    * $$\color{green-c}shǔ$$ -- <span class='yellow-b'>数</span>不清
+- <span class='pink-b'>降</span> [查字典](http://www.zdic.net/z/27/js/964D.htm)
+    * $$\color{green-c}jiàng$$ -- <span class='yellow-b'>降</span>临
+    * $$\color{green-c}xiáng$$ -- 投<span class='yellow-b'>降</span>
+- <span class='pink-b'>模</span> [查字典](http://www.zdic.net/z/1c/js/6A21.htm)
+    * $$\color{green-c}mó$$ -- <span class='yellow-b'>模</span>仿
+    * $$\color{green-c}mú$$ -- <span class='yellow-b'>模</span>样，<span class='yellow-b'>模</span>板
+- <span class='pink-b'>血</span> [查字典](http://www.zdic.net/z/23/js/8840.htm)
+    * $$\color{green-c}xiě$$ -- <span class='yellow-b'>血</span>液
+    * $$\color{green-c}xuè$$ -- <span class='yellow-b'>血</span>管
+- <span class='pink-b'>倒</span> [查字典](http://www.zdic.net/z/15/js/5012.htm)
+    * $$\color{green-c}dào$$ -- <span class='yellow-b'>倒</span>影
+    * $$\color{green-c}dǎo$$ -- <span class='yellow-b'>倒</span>下
+- <span class='pink-b'>参</span> [查字典](http://www.zdic.net/z/16/js/53C2.htm)
+    * $$\color{green-c}cān$$ -- <span class='yellow-b'>参</span>天大树
+    * $$\color{green-c}shēn$$ -- 人<span class='yellow-b'>参</span>
+    * $$\color{green-c}c\bar{e}n$$ -- <span class='yellow-b'>参</span>差$$\color{green-c}(cī)$$
+- <span class='pink-b'>卷</span> [查字典](http://www.zdic.net/z/16/js/5377.htm)
+    * $$\color{green-c}juǎn$$ -- <span class='yellow-b'>卷</span>过
+    * $$\color{green-c}juàn$$ -- 试<span class='yellow-b'>卷</span>
+- <span class='pink-b'>觉</span> [查字典](http://www.zdic.net/z/24/js/89C9.htm)
+    * $$\color{green-c}jiào$$ -- 睡<span class='yellow-b'>觉</span>
+    * $$\color{green-c}jué$$ -- <span class='yellow-b'>觉</span>得
+- <span class='pink-b'>正</span> [查字典](http://www.zdic.net/z/1c/js/6B63.htm)
+    * $$\color{green-c}zhèng$$ -- <span class='yellow-b'>正</span>在
+    * $$\color{green-c}zhēng$$ -- <span class='yellow-b'>正</span>月
+- <span class='pink-b'>畜</span> [查字典](http://www.zdic.net/z/1f/js/755C.htm)
+    * $$\color{green-c}chù$$ -- <span class='yellow-b'>畜</span>生
+    * $$\color{green-c}xù$$ -- <span class='yellow-b'>畜</span>牧
+- <span class='pink-b'>供</span> [查字典](http://www.zdic.net/z/15/js/4F9B.htm)
+    * $$\color{green-c}gòng$$ -- <span class='yellow-b'>供</span>品
+    * $$\color{green-c}gōng$$ -- <span class='yellow-b'>提</span>供
+- <span class='pink-b'>佛</span> [查字典](http://www.zdic.net/z/15/js/4F5B.htm)
+    * $$\color{green-c}fú$$ -- <span class='yellow-b'>仿</span>佛
+    * $$\color{green-c}fó$$ -- 神<span class='yellow-b'>佛</span>
+- <span class='pink-b'>奔</span> [查字典](http://www.zdic.net/z/17/js/5954.htm)
+    * $$\color{green-c}bēn$$ -- <span class='yellow-b'>奔</span>跑
+    * $$\color{green-c}bèn$$ -- 投<span class='yellow-b'>奔</span>
+- <span class='pink-b'>便</span> [查字典](http://www.zdic.net/z/15/js/4FBF.htm)
+    * $$\color{green-c}biàn$$ -- 方<span class='yellow-b'>便</span>
+    * $$\color{green-c}pián$$ -- <span class='yellow-b'>便</span>宜
+- <span class='pink-b'>冠</span> [查字典](http://www.zdic.net/z/15/js/51A0.htm)
+    * $$\color{green-c}guān$$ -- 树<span class='yellow-b'>冠</span>
+    * $$\color{green-c}guàn$$ -- <span class='yellow-b'>冠</span>军
+- <span class='pink-b'>号</span> [查字典](http://www.zdic.net/z/16/js/53F7.htm)
+    * $$\color{green-c}hào$$ -- <span class='yellow-b'>号</span>召$$\color{green-c}(zhào)$$
+    * $$\color{green-c}háo$$ -- <span class='yellow-b'>号</span>叫
+- <span class='pink-b'>叉</span> [查字典](http://www.zdic.net/z/16/js/53C9.htm)
+    * $$\color{green-c}chá$$ -- <span class='yellow-b'>叉</span>住
+    * $$\color{green-c}chà$$ -- 分<span class='yellow-b'>叉</span>
+    * $$\color{green-c}chā$$ -- 钢<span class='yellow-b'>叉</span>
+- <span class='pink-b'>扎</span> [查字典](http://www.zdic.net/z/1a/js/624E.htm)
+    * $$\color{green-c}zā$$ -- <span class='yellow-b'>扎</span>好
+    * $$\color{green-c}zhá$$ -- 挣<span class='yellow-b'>扎</span>
+    * $$\color{green-c}zhā$$ -- <span class='yellow-b'>扎</span>针
+- <span class='pink-b'>挨</span> [查字典](http://www.zdic.net/z/1a/js/6328.htm)
+    * $$\color{green-c}āi$$ -- <span class='yellow-b'>挨</span>着
+    * $$\color{green-c}ái$$ -- <span class='yellow-b'>挨</span>打
+- <span class='pink-b'>空</span> [查字典](http://www.zdic.net/z/20/js/7A7A.htm)
+    * $$\color{green-c}kōng$$ -- 天<span class='yellow-b'>空</span>
+    * $$\color{green-c}kòng$$ -- <span class='yellow-b'>空</span>地
+- <span class='pink-b'>圈</span> [查字典](http://www.zdic.net/z/17/js/5708.htm)
+    * $$\color{green-c}juàn$$ -- 羊<span class='yellow-b'>圈</span>
+    * $$\color{green-c}quān$$ -- 项<span class='yellow-b'>圏</span>
+- <span class='pink-b'>血</span> [查字典](http://www.zdic.net/z/23/js/8840.htm)
+    * $$\color{green-c}xiě$$ -- 一摊<span class='yellow-b'>血</span>
+    * $$\color{green-c}xuè$$ -- 鲜<span class='yellow-b'>血</span>
+- <span class='pink-b'>调</span> [查字典](http://www.zdic.net/z/24/js/8C03.htm)
+    * $$\color{green-c}diào$$ -- 音<span class='yellow-b'>调</span>
+    * $$\color{green-c}tiáo$$ -- <span class='yellow-b'>调</span>节
+- <span class='pink-b'>模</span> [查字典](http://www.zdic.net/z/1c/js/6A21.htm)
+    * $$\color{green-c}mú$$ -- <span class='yellow-b'>模</span>样
+    * $$\color{green-c}mó$$ -- <span class='yellow-b'>模</span>糊
+- <span class='pink-b'>扇</span> [查字典](http://www.zdic.net/z/1a/js/6247.htm)
+    * $$\color{green-c}shān$$ -- <span class='yellow-b'>扇</span>动
+    * $$\color{green-c}shàn$$ -- <span class='yellow-b'>扇</span>子
+- <span class='pink-b'>倒</span> [查字典](http://www.zdic.net/z/15/js/5012.htm)
+    * $$\color{green-c}dǎo$$ -- 排山<span class='yellow-b'>倒</span>海
+    * $$\color{green-c}dào$$ -- <span class='yellow-b'>倒</span>水
+- <span class='pink-b'>当</span> [查字典](http://www.zdic.net/z/19/js/5F53.htm)
+    * $$\color{green-c}dàng$$ -- 上<span class='yellow-b'>当</span>
+    * $$\color{green-c}dāng$$ -- 势不可<span class='yellow-b'>当</span>
+- <span class='pink-b'>劈</span> [查字典](http://www.zdic.net/z/16/js/5288.htm)
+    * $$\color{green-c}pī$$ -- <span class='yellow-b'>劈</span>敌
+    * $$\color{green-c}pǐ$$ -- <span class='yellow-b'>劈</span>柴
+- <span class='pink-b'>应</span> [查字典](http://www.zdic.net/z/19/js/5E94.htm)
+    * $$\color{green-c}yìng$$ -- <span class='yellow-b'>应</span>声而来，<span class='yellow-b'>应</span>答
+    * $$\color{green-c}yīng$$ -- <span class='yellow-b'>应</span>该
+- <span class='pink-b'>肖</span> [查字典](http://www.zdic.net/z/21/js/8096.htm)
+    * $$\color{green-c}xiào$$ -- <span class='yellow-b'>肖</span>像
+    * $$\color{green-c}xiāo$$ -- 姓<span class='yellow-b'>肖</span>
+- <span class='pink-b'>悄</span> [查字典](http://www.zdic.net/z/19/js/6084.htm)
+    * $$\color{green-c}qiǎo$$ -- <span class='yellow-b'>悄</span>然
+    * $$\color{green-c}qiāo$$ -- 静<span class='yellow-b'>悄悄</span>
+- <span class='pink-b'>模</span> [查字典](http://www.zdic.net/z/1c/js/6A21.htm)
+    * $$\color{green-c}mó$$ -- <span class='yellow-b'>模</span>仿
+    * $$\color{green-c}mú$$ -- <span class='yellow-b'>模</span>样
+- <span class='pink-b'>绷</span> [查字典](http://www.zdic.net/z/21/js/7EF7.htm)
+    * $$\color{green-c}bēng$$ -- <span class='yellow-b'>绷</span>带
+    * $$\color{green-c}běng$$ -- <span class='yellow-b'>绷</span>脸
+- <span class='pink-b'>重</span> [查字典](http://www.zdic.net/z/26/js/91CD.htm)
+    * $$\color{green-c}chóng$$ -- <span class='yellow-b'>重</span>复
+    * $$\color{green-c}zhòng$$ -- <span class='yellow-b'>重</span>要
+- <span class='pink-b'>弹</span> [查字典](http://www.zdic.net/z/19/js/5F39.htm)
+    * $$\color{green-c}tán$$ -- <span class='yellow-b'>弹</span>琴
+    * $$\color{green-c}dàn$$ -- 子<span class='yellow-b'>弹</span>
+- <span class='pink-b'>解</span> [查字典](http://www.zdic.net/z/24/js/89E3.htm)
+    * $$\color{green-c}jiě$$ -- <span class='yellow-b'>解</span>开
+    * $$\color{green-c}xiè$$ -- 浑身<span class='yellow-b'>解</span>数
+    * $$\color{green-c}jiè$$ -- <span class='yellow-b'>解</span>运，押<span class='yellow-b'>解</span>
+- <span class='pink-b'>曲</span> [查字典](http://www.zdic.net/z/1b/js/66F2.htm)
+    * $$\color{green-c}qǔ$$ -- <span class='yellow-b'>曲</span>高和$$\color{green-c}(hè)$$寡
+    * $$\color{green-c}qū$$ -- 弯<span class='yellow-b'>曲</span>
+- <span class='pink-b'>和</span> [查字典](http://www.zdic.net/z/16/js/548C.htm)
+    * $$\color{green-c}hè$$ -- 曲$$\color{green-c}(qǔ)$$高<span class='yellow-b'>和</span>寡
+    * $$\color{green-c}hé$$ -- <span class='yellow-b'>和</span>谐
+- <span class='pink-b'>喝</span> [查字典](http://www.zdic.net/z/16/js/559D.htm)
+    * $$\color{green-c}hē$$ -- <span class='yellow-b'>喝</span>水
+    * $$\color{green-c}hè$$ -- <span class='yellow-b'>喝</span>彩
