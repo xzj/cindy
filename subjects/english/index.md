@@ -1,6 +1,11 @@
 {% include nav.html %}
 ## <span class='bg-pink'>&nbsp;&nbsp;&nbsp;&nbsp;</span>介词(prep.)，<span class='bg-blue'>&nbsp;&nbsp;&nbsp;&nbsp;</span>动词(v.)，<span class='bg-green'>&nbsp;&nbsp;&nbsp;&nbsp;</span>名词(n.)，<span class='bg-orange'>&nbsp;&nbsp;&nbsp;&nbsp;</span>形容词(adj.)，<span class='bg-yellow'>&nbsp;&nbsp;&nbsp;&nbsp;</span>副词(adv.)
 
+## 易错字
+- <span class='blue-b'>diff</span><span class='red-b'>e</span><span class='green-b'>rent</span>
+- <span class='blue-b'>com</span><span class='pink-b'>for</span><span class='green-b'>ta</span><span class='yellow-b'>ble</span>
+- <span class='blue-b'>fr</span><span class='pink-b'>ien</span><span class='green-b'>d</span>
+
 ## 单词
 - <span class='blue-b'>a</span> 开头
     * afraid(六上，<span class='pink-b'>unit 4</span>) - adj. 害怕的
