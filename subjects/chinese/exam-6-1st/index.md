@@ -25,7 +25,7 @@
     2. <span class='blue-b'>文学常识</span>
         * <span class='pink-b'>《中华少年》</span>作者：<span class='blue-b'>李少白</span>
     3. <span class='pink-b'>日积月累</span>
-        - <span class='pink-b'>我们</span><span class='blue-b'>爱</span>我们的民族，这是我们<span class='pink-b'>自信心</span>的<span class='blue-b'>源泉</span>。(<span class='red-b'>周恩来</span>)
+        - <span class='pink-b'>我们</span><span class='blue-b'>爱</span>我们的民族，这是我们<span class='pink-b'>自信心</span>的<span class='blue-b'>泉源</span>。(<span class='red-b'>周恩来</span>)
         - <span class='pink-b'>我</span>是中国人民的<span class='blue-b'>儿子</span>，我<span class='blue-b'>深情</span>地爱着我的<span class='green-b'>祖国</span>和<span class='green-b'>人民</span>。(<span class='red-b'>邓小平</span>)
         - <span class='pink-b'>惟有</span>民魂是值得<span class='blue-b'>宝贵</span>的，<span class='pink-b'>惟有</span>他<span class='blue-b'>发扬</span>起来，<span class='green-b'>中国</span>才有<span class='green-b'>真进步</span>。（<span class='red-b'>鲁</span>$$\color{green-c}l\breve{u}$$<span class='red-b'>迅</span>）
         - 我<span class='blue-b'>爱</span>我的<span class='pink-b'>祖国</span>，<span class='blue-b'>爱</span>我的<span class='pink-b'>人民</span>，<span class='blue-b'>离开</span>了<span class='pink-b'>她</span>，<span class='blue-b'>离开</span>了<span class='pink-b'>他们</span>，我就<span class='yellow-b'>无法生存</span>，更<span class='yellow-b'>无法写作</span>。（<span class='red-b'>巴金</span>）
@@ -59,9 +59,10 @@
     2. 背第<span class='pink-b'>17</span>课第<span class='yellow-b'>1</span>自然段、<span class='yellow-b'>14</span>——<span class='yellow-b'>16</span>自然段
     3. <span class='pink-b'>日积月累</span> - 鲁迅先生的名言警句。
         - <span class='red-b'>横眉冷对千夫指</span>，<span class='red-b'>俯首甘为孺子牛</span>。《<span class='red-b'>自嘲</span>》
+        - 其实地上<span class='blue-b'>本没有</span><span class='green-b'>路</span>，走的<span class='green-b'>人</span><span class='blue-b'>多了</span>，也<span class='blue-b'>便成了</span><span class='green-b'>路</span>。《<span class='red-b'>故乡</span>》
         - <span class='pink-b'>我</span>好像一只<span class='blue-b'>牛</span>，<span class='yellow-b'>吃</span>的是<span class='green-b'>草</span>，<span class='yellow-b'>挤</span>出来的是<span class='green-b'>奶</span>、<span class='green-b'>血</span>。<span class='orange-b'>许广平</span>《<span class='red-b'>欣慰的纪念</span>》
-        - <span class='blue-b'>时间</span>就是<span class='pink-b'>性命</span>，<span class='pink-b'>无端</span>的<span class='orange-b'>空耗</span><span class='green-b'>别人</span>时间，其实是<span class='yellow-b'>无异</span>于<span class='orange-b'>谋财害命</span>。《<span class='red-b'>门外文谈</span>》
-        - <span class='pink-b'>只看</span><span class='blue-b'>一个人</span>的著作，<span class='blue-b'>结果</span>是<span class='pink-b'>不大好</span>的：你就<span class='pink-b'>得不到</span><span class='blue-b'>多方面</span>的优点。<span class='yellow-b'>必须</span><span class='pink-b'>如蜜蜂</span>一样，<span class='yellow-b'>采过</span><span class='green-b'>许多</span>花，这<span class='yellow-b'>才能</span><span class='pink-b'>醉</span>出<span class='blue-b'>蜜</span>来。倘若<span class='pink-b'>叮</span>在<span class='green-b'>一处</span>，<span class='yellow-b'>所得</span>就非常<span class='orange-b'>有限</span>，<span class='orange-b'>枯燥</span>了。《<span class='red-b'>致颜黎民</span>》
+        - <span class='blue-b'>时间</span>就是<span class='pink-b'>性命</span>，<span class='pink-b'>无端</span>的<span class='orange-b'>空耗</span><span class='green-b'>别人</span>的时间，其实是<span class='yellow-b'>无异</span>于<span class='orange-b'>谋财害命</span>的。《<span class='red-b'>门外文谈</span>》
+        - <span class='pink-b'>只看</span><span class='blue-b'>一个人</span>的著作，<span class='blue-b'>结果</span>是<span class='pink-b'>不大好</span>的：你就<span class='pink-b'>得不到</span><span class='blue-b'>多方面</span>的优点。<span class='yellow-b'>必须</span><span class='pink-b'>如蜜蜂</span>一样，<span class='yellow-b'>采过</span><span class='green-b'>许多</span>花，这<span class='yellow-b'>才能</span><span class='pink-b'>酿</span>出<span class='blue-b'>蜜</span>来。倘若<span class='pink-b'>叮</span>在<span class='green-b'>一处</span>，<span class='yellow-b'>所得</span>就非常<span class='orange-b'>有限</span>、<span class='orange-b'>枯燥</span>了。《<span class='red-b'>致颜黎民</span>》
 - **第六单元**
     1. <span class='pink-b'>文学常识</span>
         - 《诗经·采薇》选自我国<span class='red-b'>最早</span>的<span class='red-b'>诗歌总集</span>《<span class='red-b'>诗经</span>》。
@@ -79,7 +80,7 @@
             * 随风潜入夜，润物细无声。
             * 野径云俱黑，江船火独明。
             * 晓看红湿处，花重锦官城。
-        - 《西江月 夜行黄沙道中》［<span class='pink-b'>宋</span>］<span class='blue-b'>辛弃疾</span>
+        - 《西江月·夜行黄沙道中》［<span class='pink-b'>宋</span>］<span class='blue-b'>辛弃疾</span>
             * 明月别枝惊鹊，清风半夜鸣蝉。
             * 稻花香里说丰年，听取蛙声一片。　
             * 七八个星天外，两三点雨山前。
@@ -115,8 +116,8 @@
         - 《秋思》［唐］张籍
             * 洛阳城里见秋风，欲作家书意万重。
             * 复恐匆匆说不尽，行人临发又开封。
-        - 《逢人入京使》［唐］岑参
-            * 故园东望路漫漫，双袖龙锺泪不干。
+        - 《逢入京使》［唐］岑$$\color{green-c}(c\acute{e}n)$$参
+            * 故园东望路漫漫，双袖龙钟泪不干。
             * 马上相逢无纸笔，凭君传语报平安。
 - **第七单元**
     1. 《马诗》［<span class='pink-b'>唐</span>］<span class='blue-b'>李贺</span>
@@ -131,3 +132,8 @@
         - 《我的舞台》本文是我国著名的<span class='blue-b'>编剧</span>、<span class='blue-b'>导演</span>、<span class='blue-b'>作家</span><span class='yellow-b'>吴祖光</span>先生与著名<span class='blue-b'>评剧</span>演员<span class='yellow-b'>新凤霞</span>的女儿──吴霜女士（即文中的“霜霜”）的一篇回忆录。
     2. 伯牙/善/鼓琴，钟子期/善听。伯牙鼓琴，志在高山，钟子期曰：“善哉，峨峨兮/若/泰山！”志在流水，钟子期曰：“善哉，洋洋兮/若/江河！”伯牙/所念，钟子期/必得之。子期死，伯牙/谓/世/再无知音，乃/破琴/绝弦，终身/不复鼓。
     3. 皮鞋匠静静地听着。他好像面对着大海，月光正从水天相接的地方升起来。微波粼粼的海面上，霎时间洒满了银光。月亮越升越高，穿过一缕一缕轻纱似的微云。忽然，海面上刮起了大风，卷起了巨浪。被月光照得雪亮的浪花，一个连一个朝着岸边涌过来……皮鞋匠看看妹妹，月光正照在她那恬静的脸上，照着她睁得大大的眼睛，她仿佛也看到了，看到了她从来没有看到过的景象，月光照耀下的波涛汹涌的大海。
+    4. <span class='pink-b'>日积月累</span>
+        - 雕梁画栋、巧夺天工、独具匠心、引人入胜
+        - 古色古香、余音绕梁、不落窠$$\color{green-c}(k\bar{e})$$臼$$\color{green-c}(ji\grave{u})$$、雅俗共赏
+        - 美不胜收、脍炙人口、曲高和寡、妙笔生花
+        - 阳春白雪、笔走龙蛇、不同凡响、别具一格
